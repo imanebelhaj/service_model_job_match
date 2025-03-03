@@ -1,0 +1,1001 @@
+StudentID,Major,Skills,Languages,Location,ExtracurricularActivities,GPA
+1,Psychology,Problem Solving,"Chinese, Japanese, Spanish, German, French",New York,Debate Club,3.27
+2,Physics,"Leadership, Problem Solving, Public Speaking, Data Analysis, Programming","French, English, Chinese, Spanish, Japanese",Boston,Debate Club,3.17
+3,Biology,"Data Analysis, Leadership, Public Speaking, Artistic, Problem Solving","Spanish, Japanese, German, French",Chicago,Volunteer Group,2.09
+4,Biology,"Public Speaking, Data Analysis, Problem Solving","Japanese, Chinese, Spanish, French",Chicago,Volunteer Group,2.56
+5,Computer Science,Data Analysis,English,Chicago,Sports Team,2.01
+6,History,"Public Speaking, Artistic",Japanese,Chicago,Debate Club,2.99
+7,Psychology,"Public Speaking, Problem Solving, Data Analysis, Artistic","Chinese, English, Spanish, German",New York,Art Club,3.35
+8,Psychology,"Programming, Public Speaking, Artistic, Leadership","Chinese, Japanese, Spanish",Houston,Volunteer Group,3.64
+9,Mathematics,"Leadership, Artistic, Problem Solving, Public Speaking, Programming, Data Analysis","German, English, Japanese, Chinese",New York,Sports Team,2.97
+10,History,"Programming, Data Analysis, Problem Solving, Leadership","Chinese, German, Spanish",Los Angeles,Sports Team,3.03
+11,Psychology,"Programming, Leadership, Artistic, Data Analysis","German, English, Spanish, French",New York,Sports Team,3.02
+12,Biology,"Public Speaking, Programming, Problem Solving, Leadership",German,San Francisco,Coding Club,3.96
+13,Mathematics,"Programming, Artistic, Problem Solving","English, Japanese, Chinese, Spanish, German, French",New York,Music Club,2.98
+14,Biology,"Artistic, Problem Solving, Programming",Japanese,Boston,Sports Team,2.48
+15,Computer Science,"Artistic, Problem Solving, Public Speaking, Data Analysis",German,Chicago,Music Club,2.54
+16,Computer Science,"Artistic, Programming, Leadership",English,Chicago,Debate Club,2.5
+17,Physics,"Data Analysis, Programming, Problem Solving, Public Speaking, Leadership, Artistic","Chinese, Japanese, English",New York,Music Club,3.0
+18,Computer Science,"Data Analysis, Problem Solving, Public Speaking",Japanese,Los Angeles,Volunteer Group,3.91
+19,Biology,"Programming, Artistic, Public Speaking, Data Analysis, Leadership, Problem Solving","English, German",New York,Coding Club,2.44
+20,History,"Public Speaking, Leadership, Artistic, Data Analysis, Problem Solving, Programming","Chinese, German, Spanish, English, French, Japanese",Chicago,Debate Club,3.64
+21,Mathematics,"Programming, Public Speaking, Data Analysis, Leadership, Problem Solving","German, Chinese, French",Chicago,Coding Club,2.36
+22,Psychology,"Problem Solving, Data Analysis, Leadership, Artistic","Spanish, English",San Francisco,Sports Team,3.8
+23,Mathematics,"Artistic, Leadership, Data Analysis, Problem Solving, Public Speaking","Chinese, English, German, French, Japanese, Spanish",Los Angeles,Volunteer Group,3.81
+24,Physics,"Public Speaking, Data Analysis, Artistic","Chinese, English, Japanese, French, Spanish",Houston,Music Club,3.12
+25,Physics,"Data Analysis, Problem Solving, Artistic, Public Speaking, Leadership, Programming","English, Spanish, Japanese, French, Chinese, German",Boston,Coding Club,2.79
+26,Physics,"Artistic, Problem Solving, Leadership, Programming, Data Analysis, Public Speaking","Japanese, Chinese, Spanish",San Francisco,Debate Club,2.77
+27,History,"Problem Solving, Artistic, Data Analysis, Programming, Leadership, Public Speaking",English,Boston,Sports Team,3.42
+28,Biology,"Programming, Data Analysis",Spanish,Chicago,Volunteer Group,3.27
+29,Psychology,"Data Analysis, Leadership",Chinese,Los Angeles,Art Club,2.91
+30,History,"Data Analysis, Public Speaking","Chinese, Japanese, French, English, Spanish",Los Angeles,Music Club,2.96
+31,Biology,"Artistic, Programming, Public Speaking, Problem Solving, Data Analysis","English, Chinese, Spanish",San Francisco,Debate Club,2.26
+32,Computer Science,"Problem Solving, Programming, Leadership, Data Analysis, Public Speaking, Artistic","Chinese, French, Spanish",Boston,Volunteer Group,3.01
+33,Computer Science,"Public Speaking, Programming","German, Japanese, Chinese, French",Chicago,Debate Club,2.83
+34,History,"Data Analysis, Programming, Public Speaking","English, German",New York,Volunteer Group,2.19
+35,Physics,Data Analysis,"German, English, Spanish, French, Chinese, Japanese",Boston,Art Club,3.1
+36,Psychology,"Leadership, Programming, Problem Solving","Spanish, German, Japanese, English, French",Boston,Music Club,3.12
+37,History,"Data Analysis, Public Speaking, Programming, Artistic, Problem Solving","German, Chinese, English, French",New York,Sports Team,3.46
+38,Computer Science,"Artistic, Public Speaking, Data Analysis, Leadership, Programming, Problem Solving",German,Houston,Volunteer Group,3.67
+39,Mathematics,"Programming, Public Speaking, Data Analysis, Problem Solving",German,Los Angeles,Sports Team,3.24
+40,Mathematics,"Data Analysis, Leadership, Programming","English, Spanish",Boston,Coding Club,2.51
+41,Psychology,"Programming, Artistic, Public Speaking, Leadership","English, Chinese, Spanish, French, Japanese, German",Boston,Music Club,2.42
+42,Mathematics,"Data Analysis, Leadership, Programming, Public Speaking, Problem Solving",German,Houston,Art Club,2.65
+43,Mathematics,"Problem Solving, Data Analysis, Public Speaking, Programming, Artistic, Leadership","Chinese, Spanish, English",Houston,Sports Team,3.77
+44,Psychology,"Data Analysis, Artistic, Leadership, Programming, Problem Solving","Spanish, Chinese, Japanese",Los Angeles,Volunteer Group,2.72
+45,History,Problem Solving,"French, English",Houston,Sports Team,3.68
+46,Mathematics,Artistic,German,Boston,Sports Team,3.12
+47,Biology,"Artistic, Data Analysis, Programming, Problem Solving, Leadership","German, English",Los Angeles,Sports Team,2.9
+48,History,"Artistic, Programming, Problem Solving","German, Japanese",San Francisco,Music Club,2.11
+49,Psychology,"Leadership, Public Speaking, Programming, Data Analysis, Artistic, Problem Solving","English, German, Chinese, Spanish, Japanese",Boston,Music Club,3.99
+50,History,"Leadership, Public Speaking","Spanish, French, Japanese, German",Chicago,Sports Team,2.64
+51,Computer Science,"Data Analysis, Artistic, Leadership, Public Speaking, Problem Solving, Programming","Spanish, English, French, Japanese, German, Chinese",Chicago,Debate Club,2.17
+52,Mathematics,Public Speaking,"French, English, Chinese, Japanese, German, Spanish",Chicago,Sports Team,2.11
+53,Mathematics,"Public Speaking, Leadership, Programming, Data Analysis","Japanese, Chinese",New York,Sports Team,2.26
+54,Biology,"Programming, Public Speaking","French, Japanese, German",Los Angeles,Sports Team,2.13
+55,Computer Science,"Artistic, Problem Solving, Leadership, Programming, Data Analysis, Public Speaking","English, German, Spanish, Japanese",Chicago,Music Club,3.75
+56,Mathematics,"Leadership, Programming, Artistic, Public Speaking","French, German",Chicago,Music Club,3.55
+57,Mathematics,"Problem Solving, Artistic, Programming, Leadership, Public Speaking","English, Japanese, Spanish",Los Angeles,Sports Team,2.44
+58,History,"Artistic, Leadership","Japanese, Spanish, English, French",Los Angeles,Volunteer Group,3.23
+59,Psychology,"Problem Solving, Leadership, Artistic, Programming, Public Speaking, Data Analysis","German, Chinese, English",Houston,Art Club,3.74
+60,Biology,"Leadership, Public Speaking, Programming",Japanese,Chicago,Sports Team,2.42
+61,Physics,Data Analysis,"French, Chinese, German, English",Houston,Sports Team,3.62
+62,History,"Public Speaking, Programming, Leadership, Problem Solving, Artistic, Data Analysis",Spanish,Houston,Volunteer Group,2.83
+63,Physics,"Leadership, Artistic, Data Analysis","Spanish, German, Chinese, Japanese",New York,Sports Team,3.63
+64,Computer Science,"Data Analysis, Artistic, Leadership, Programming, Problem Solving, Public Speaking","Japanese, French, German, Chinese, English, Spanish",Chicago,Debate Club,3.14
+65,Psychology,Programming,"Chinese, Japanese, German, English",New York,Music Club,3.82
+66,Psychology,"Artistic, Problem Solving, Public Speaking, Programming","Chinese, German",New York,Debate Club,2.91
+67,Biology,"Programming, Data Analysis","Spanish, English, French, Chinese, German, Japanese",New York,Coding Club,2.34
+68,Psychology,Programming,"German, Spanish, French, Japanese, English",Los Angeles,Art Club,3.43
+69,Physics,"Problem Solving, Leadership, Public Speaking","Spanish, German, English",Chicago,Coding Club,2.53
+70,History,"Programming, Public Speaking, Leadership, Data Analysis, Problem Solving","German, French, English, Japanese, Spanish, Chinese",Chicago,Music Club,3.31
+71,Biology,"Data Analysis, Programming, Problem Solving, Leadership, Public Speaking","Chinese, Japanese, French, English, Spanish, German",Chicago,Volunteer Group,2.71
+72,Biology,Programming,English,Chicago,Volunteer Group,3.56
+73,Physics,"Leadership, Data Analysis, Problem Solving, Programming, Public Speaking","Japanese, French",Boston,Coding Club,2.42
+74,Computer Science,Artistic,"French, German, Japanese",Houston,Volunteer Group,3.68
+75,Psychology,"Data Analysis, Problem Solving, Artistic, Programming, Leadership","French, Japanese",New York,Music Club,2.88
+76,History,"Artistic, Programming, Leadership, Data Analysis, Public Speaking, Problem Solving",Chinese,Los Angeles,Debate Club,3.9
+77,Physics,"Problem Solving, Programming, Artistic","Spanish, German, French, Japanese, English, Chinese",San Francisco,Debate Club,2.65
+78,Mathematics,"Leadership, Public Speaking, Data Analysis","French, English, Spanish, Chinese, German, Japanese",Houston,Debate Club,3.62
+79,Mathematics,"Artistic, Public Speaking, Data Analysis, Programming, Leadership, Problem Solving","German, Chinese",Houston,Volunteer Group,3.16
+80,Psychology,Programming,"French, English, Spanish, German",Chicago,Sports Team,2.88
+81,History,"Data Analysis, Programming, Problem Solving","French, Chinese, English, Japanese",Los Angeles,Volunteer Group,2.94
+82,Mathematics,"Programming, Data Analysis, Problem Solving, Artistic","German, French, Spanish, Chinese",San Francisco,Art Club,3.15
+83,Computer Science,"Artistic, Leadership, Data Analysis","Spanish, Japanese, French",Los Angeles,Art Club,2.69
+84,Physics,"Leadership, Problem Solving, Programming, Public Speaking",English,San Francisco,Debate Club,2.25
+85,Biology,"Artistic, Programming, Leadership, Public Speaking","Japanese, Chinese",Houston,Coding Club,2.14
+86,History,"Artistic, Data Analysis, Public Speaking","French, English, Chinese, German",Boston,Debate Club,3.69
+87,Mathematics,"Data Analysis, Leadership, Programming, Problem Solving, Public Speaking, Artistic","German, Chinese, Spanish",Boston,Art Club,2.11
+88,Computer Science,"Programming, Data Analysis","German, Japanese, French, Spanish, English",New York,Art Club,3.0
+89,Mathematics,"Artistic, Data Analysis","English, French, Chinese",Chicago,Art Club,2.58
+90,Psychology,"Programming, Leadership, Public Speaking, Artistic, Problem Solving, Data Analysis","French, Japanese, English, German, Spanish, Chinese",Los Angeles,Music Club,3.73
+91,Computer Science,"Artistic, Leadership, Programming, Problem Solving","Spanish, German, Chinese, English, Japanese",Los Angeles,Volunteer Group,3.27
+92,Physics,"Problem Solving, Leadership, Artistic, Public Speaking, Data Analysis",German,Boston,Music Club,3.71
+93,Mathematics,Data Analysis,"French, Chinese",Boston,Art Club,2.03
+94,Computer Science,Leadership,"English, Chinese, German, Japanese, French, Spanish",San Francisco,Sports Team,2.15
+95,Physics,"Programming, Leadership, Problem Solving, Data Analysis","German, French, Chinese, Japanese, English",New York,Volunteer Group,3.04
+96,History,Data Analysis,"English, Japanese, Chinese",Chicago,Art Club,2.8
+97,Biology,"Artistic, Data Analysis","English, French, Japanese, German, Chinese",San Francisco,Music Club,2.66
+98,Biology,Data Analysis,"Chinese, Spanish",San Francisco,Coding Club,2.25
+99,History,"Leadership, Programming, Data Analysis, Public Speaking, Artistic, Problem Solving","Chinese, Spanish, German",Chicago,Debate Club,2.94
+100,Psychology,"Public Speaking, Leadership, Artistic, Programming, Problem Solving","Spanish, French, Chinese",San Francisco,Music Club,2.67
+101,Biology,"Data Analysis, Problem Solving, Artistic, Programming, Public Speaking","English, Chinese, French",New York,Coding Club,3.98
+102,Biology,"Leadership, Programming, Data Analysis, Public Speaking","German, French, Japanese",San Francisco,Music Club,3.52
+103,History,"Public Speaking, Problem Solving, Programming, Data Analysis","German, Japanese, English, Chinese, French, Spanish",New York,Debate Club,3.68
+104,Mathematics,"Leadership, Programming, Data Analysis, Problem Solving, Public Speaking","French, Japanese, Spanish, German, English, Chinese",Los Angeles,Debate Club,3.57
+105,Biology,"Leadership, Artistic, Programming, Data Analysis","Japanese, English, Spanish, Chinese, French, German",San Francisco,Coding Club,3.87
+106,Psychology,"Data Analysis, Programming, Public Speaking, Artistic, Problem Solving, Leadership","English, German, Chinese",Chicago,Volunteer Group,2.17
+107,Biology,"Leadership, Artistic, Problem Solving, Public Speaking","French, Spanish, Chinese, German",Houston,Coding Club,2.64
+108,Psychology,"Programming, Data Analysis, Public Speaking, Problem Solving, Artistic","Spanish, English, French, Chinese",New York,Music Club,3.69
+109,Physics,"Data Analysis, Public Speaking, Problem Solving, Artistic","Japanese, German, French, English, Chinese",New York,Volunteer Group,3.78
+110,Physics,"Programming, Leadership","Spanish, English, Chinese",San Francisco,Debate Club,2.97
+111,Computer Science,"Public Speaking, Artistic, Leadership","Spanish, German, Japanese",Los Angeles,Music Club,3.64
+112,Physics,Artistic,Japanese,Los Angeles,Debate Club,2.98
+113,History,"Data Analysis, Programming",Spanish,Boston,Volunteer Group,3.56
+114,Mathematics,"Programming, Artistic, Data Analysis","Spanish, Chinese, English",Chicago,Debate Club,3.69
+115,Mathematics,Problem Solving,"German, Japanese",New York,Coding Club,2.69
+116,History,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking","English, Spanish",Boston,Coding Club,2.57
+117,Physics,"Data Analysis, Leadership, Artistic, Problem Solving, Programming, Public Speaking","German, English, Japanese, Spanish, French, Chinese",Boston,Sports Team,2.31
+118,Biology,"Public Speaking, Problem Solving, Leadership","Chinese, Spanish, Japanese",San Francisco,Volunteer Group,2.43
+119,Computer Science,Artistic,"Japanese, Spanish, Chinese, English",San Francisco,Sports Team,2.34
+120,Mathematics,"Problem Solving, Programming, Public Speaking, Artistic","German, English, Japanese",New York,Volunteer Group,2.75
+121,History,"Data Analysis, Programming, Public Speaking, Leadership, Problem Solving, Artistic","Chinese, English, German, Japanese, Spanish",Chicago,Art Club,2.37
+122,Physics,"Programming, Leadership","Spanish, English, German",Boston,Debate Club,2.12
+123,Computer Science,"Public Speaking, Programming","English, Spanish, Chinese, French, German, Japanese",Chicago,Debate Club,2.17
+124,Biology,"Public Speaking, Data Analysis, Leadership, Problem Solving","Chinese, German",Los Angeles,Debate Club,3.56
+125,Computer Science,"Public Speaking, Programming, Artistic, Data Analysis, Problem Solving","Japanese, French",San Francisco,Music Club,2.47
+126,Biology,"Artistic, Problem Solving","German, English, Spanish, French, Chinese",Houston,Volunteer Group,3.5
+127,Biology,"Artistic, Leadership","Spanish, French, Japanese, German",Los Angeles,Volunteer Group,3.79
+128,History,"Programming, Problem Solving","German, Spanish, English, Japanese",Boston,Debate Club,3.02
+129,Computer Science,Public Speaking,"French, Chinese, Spanish",Houston,Debate Club,3.75
+130,Physics,"Problem Solving, Artistic, Public Speaking, Data Analysis, Leadership, Programming","German, English, French",San Francisco,Art Club,3.53
+131,Psychology,"Public Speaking, Programming, Problem Solving, Artistic","French, Spanish",Houston,Music Club,2.66
+132,Computer Science,"Data Analysis, Artistic",Chinese,San Francisco,Sports Team,2.22
+133,History,"Leadership, Problem Solving, Artistic, Public Speaking","Chinese, Spanish, German, English, Japanese",Chicago,Debate Club,2.38
+134,Mathematics,"Public Speaking, Problem Solving, Artistic, Programming","Spanish, Chinese, French, English, Japanese",Los Angeles,Volunteer Group,3.13
+135,Physics,"Problem Solving, Leadership, Artistic, Data Analysis, Public Speaking, Programming","French, German, Spanish, Japanese, English, Chinese",Houston,Music Club,3.35
+136,Physics,"Public Speaking, Artistic, Leadership","Japanese, Chinese, French, English",San Francisco,Debate Club,2.33
+137,Computer Science,Data Analysis,"German, English, Japanese, Spanish, Chinese",New York,Volunteer Group,2.99
+138,Biology,"Leadership, Problem Solving","English, French, German, Chinese, Spanish",Houston,Sports Team,2.51
+139,Computer Science,"Leadership, Public Speaking, Data Analysis, Problem Solving, Programming, Artistic",Chinese,Los Angeles,Volunteer Group,3.04
+140,History,"Programming, Data Analysis, Problem Solving, Leadership, Public Speaking, Artistic","English, Chinese, Spanish, German",New York,Debate Club,2.91
+141,Physics,"Programming, Public Speaking, Artistic, Leadership, Data Analysis, Problem Solving","German, Chinese, English, Japanese",New York,Coding Club,2.65
+142,Psychology,"Leadership, Artistic","English, French, German",Chicago,Art Club,2.47
+143,Psychology,"Artistic, Problem Solving, Data Analysis, Programming","Japanese, German, English, Chinese, Spanish",Chicago,Art Club,2.82
+144,Biology,"Artistic, Problem Solving, Leadership, Data Analysis, Programming, Public Speaking","French, English, Spanish",Los Angeles,Art Club,3.26
+145,Physics,"Programming, Artistic, Leadership, Data Analysis","English, Spanish, German",San Francisco,Art Club,3.08
+146,Computer Science,"Data Analysis, Leadership, Programming, Artistic",Chinese,Los Angeles,Sports Team,2.82
+147,Computer Science,Leadership,"Spanish, English, German, Chinese, French",Los Angeles,Sports Team,3.97
+148,Mathematics,"Public Speaking, Problem Solving, Programming, Artistic, Data Analysis","Japanese, Spanish, German, French",Chicago,Music Club,3.61
+149,Mathematics,"Public Speaking, Data Analysis","Chinese, German, French, Spanish, English",Boston,Sports Team,2.07
+150,Mathematics,Data Analysis,Japanese,Boston,Coding Club,2.93
+151,Psychology,"Artistic, Problem Solving, Public Speaking, Leadership, Programming","English, Spanish, German",Chicago,Volunteer Group,3.71
+152,Computer Science,"Data Analysis, Programming, Public Speaking, Problem Solving","German, English, Japanese, Chinese, French, Spanish",Houston,Coding Club,2.57
+153,Psychology,"Artistic, Problem Solving, Data Analysis, Programming, Leadership, Public Speaking",Chinese,Houston,Sports Team,2.78
+154,Physics,"Public Speaking, Data Analysis","French, English, Japanese",Houston,Art Club,2.63
+155,Biology,Public Speaking,Japanese,San Francisco,Coding Club,2.7
+156,History,"Leadership, Programming","Japanese, English, French, Chinese, Spanish",Los Angeles,Debate Club,2.98
+157,Physics,"Programming, Public Speaking, Problem Solving, Leadership, Artistic, Data Analysis","Spanish, German, English, Japanese, French",New York,Art Club,3.59
+158,Mathematics,"Leadership, Artistic","Chinese, Japanese, English, Spanish, French",San Francisco,Volunteer Group,3.68
+159,Biology,"Public Speaking, Artistic, Leadership, Data Analysis","German, Spanish, English, French, Chinese",Houston,Sports Team,3.86
+160,Physics,"Artistic, Data Analysis, Programming, Problem Solving","French, Japanese, English, German, Chinese",Chicago,Sports Team,3.34
+161,Mathematics,"Public Speaking, Leadership, Programming","French, English, Japanese",Boston,Sports Team,3.53
+162,Biology,"Artistic, Problem Solving, Programming, Data Analysis","Spanish, Japanese",New York,Volunteer Group,2.04
+163,Mathematics,"Public Speaking, Leadership, Artistic, Programming","Chinese, Japanese, German, English, Spanish, French",New York,Volunteer Group,3.6
+164,History,Artistic,"Chinese, German",New York,Art Club,3.38
+165,Psychology,"Problem Solving, Data Analysis, Programming, Leadership, Artistic, Public Speaking",English,San Francisco,Music Club,3.18
+166,Computer Science,"Data Analysis, Leadership, Problem Solving",English,San Francisco,Sports Team,3.8
+167,Mathematics,Problem Solving,"German, Japanese, Spanish, English",New York,Music Club,2.31
+168,Psychology,"Programming, Leadership","German, English, Chinese, Spanish, French",Los Angeles,Debate Club,3.01
+169,Psychology,"Public Speaking, Programming, Artistic, Data Analysis, Problem Solving, Leadership",Spanish,Boston,Art Club,3.68
+170,Psychology,"Data Analysis, Leadership, Problem Solving, Public Speaking","Spanish, Chinese, English, German, Japanese",San Francisco,Coding Club,3.69
+171,Psychology,"Artistic, Problem Solving","French, German, Spanish, Chinese",San Francisco,Debate Club,2.83
+172,History,Leadership,French,Los Angeles,Debate Club,3.81
+173,History,"Problem Solving, Artistic","Spanish, German, Chinese",Los Angeles,Debate Club,3.19
+174,History,"Artistic, Data Analysis","French, Chinese, German, Spanish, Japanese",New York,Coding Club,2.06
+175,Mathematics,"Leadership, Artistic, Programming","Chinese, German",San Francisco,Sports Team,3.97
+176,History,"Problem Solving, Artistic, Programming, Data Analysis, Public Speaking, Leadership","German, Japanese",San Francisco,Art Club,3.0
+177,Computer Science,"Programming, Public Speaking, Problem Solving, Leadership, Data Analysis","English, German",Los Angeles,Debate Club,3.27
+178,Psychology,"Data Analysis, Artistic, Public Speaking, Problem Solving, Programming",Japanese,San Francisco,Volunteer Group,2.96
+179,Mathematics,"Problem Solving, Leadership, Public Speaking, Data Analysis",English,Los Angeles,Debate Club,3.31
+180,Psychology,"Problem Solving, Leadership, Programming, Artistic, Public Speaking, Data Analysis","German, Chinese, Spanish, English, Japanese",Boston,Art Club,3.81
+181,Computer Science,"Problem Solving, Leadership, Data Analysis, Artistic","Spanish, Japanese, English, German, Chinese, French",Los Angeles,Volunteer Group,3.53
+182,Psychology,"Programming, Data Analysis, Artistic",Spanish,San Francisco,Art Club,3.9
+183,Mathematics,"Public Speaking, Leadership, Problem Solving, Programming, Data Analysis","Japanese, Chinese, Spanish, German, English",Chicago,Volunteer Group,3.01
+184,History,"Problem Solving, Artistic, Public Speaking, Data Analysis, Leadership, Programming","French, German, English, Chinese, Spanish",Chicago,Volunteer Group,3.38
+185,History,"Leadership, Programming, Artistic","Japanese, Chinese, Spanish",Chicago,Music Club,2.93
+186,Biology,"Artistic, Data Analysis, Public Speaking, Programming, Leadership","English, Japanese, German, French, Spanish, Chinese",Houston,Coding Club,3.18
+187,Biology,"Leadership, Programming","Chinese, English, German, Spanish, Japanese",San Francisco,Music Club,3.27
+188,Computer Science,"Programming, Data Analysis, Public Speaking, Artistic, Leadership","German, English",Houston,Music Club,2.77
+189,Biology,"Programming, Artistic, Data Analysis, Leadership","Spanish, English, French, German, Chinese, Japanese",Houston,Coding Club,3.22
+190,Psychology,"Programming, Artistic","French, English, German, Japanese, Chinese, Spanish",San Francisco,Volunteer Group,3.19
+191,Mathematics,"Public Speaking, Data Analysis","German, Spanish, English, Japanese",Chicago,Volunteer Group,2.4
+192,Psychology,Programming,"English, French, German, Japanese",Los Angeles,Coding Club,3.92
+193,Biology,Artistic,"German, Japanese, Spanish, English, French",Boston,Art Club,2.19
+194,History,Leadership,"English, Spanish",Boston,Coding Club,2.01
+195,Biology,Programming,"French, Japanese",San Francisco,Volunteer Group,2.12
+196,Physics,"Programming, Problem Solving, Data Analysis, Artistic, Public Speaking, Leadership","French, Chinese, Japanese",Houston,Sports Team,3.09
+197,Biology,"Leadership, Programming",Japanese,Chicago,Volunteer Group,2.64
+198,Psychology,Data Analysis,"Japanese, Spanish, French, English, German",Los Angeles,Sports Team,3.61
+199,History,"Artistic, Public Speaking","English, Chinese, Japanese, German, Spanish, French",New York,Music Club,2.85
+200,History,"Problem Solving, Data Analysis, Leadership, Artistic","French, Spanish, German, Japanese, Chinese",Boston,Music Club,2.58
+201,Computer Science,"Data Analysis, Leadership, Artistic, Problem Solving, Public Speaking","French, Chinese",New York,Volunteer Group,2.8
+202,Mathematics,"Public Speaking, Artistic, Programming, Data Analysis, Leadership, Problem Solving","German, French",New York,Music Club,2.14
+203,History,"Leadership, Artistic, Data Analysis, Problem Solving, Public Speaking, Programming","Chinese, Spanish, German, French, English, Japanese",Boston,Music Club,3.19
+204,Computer Science,"Leadership, Problem Solving",Japanese,Houston,Debate Club,2.52
+205,Computer Science,Programming,"French, Spanish, Japanese, German",Chicago,Debate Club,2.66
+206,Biology,Data Analysis,"French, Spanish, Japanese, Chinese, English, German",Boston,Sports Team,3.93
+207,Physics,"Problem Solving, Artistic, Data Analysis","French, Spanish, German, English",San Francisco,Art Club,3.48
+208,Physics,"Data Analysis, Public Speaking, Artistic","Chinese, English, German, Spanish, Japanese",San Francisco,Volunteer Group,3.31
+209,Computer Science,"Problem Solving, Leadership, Artistic, Data Analysis, Public Speaking, Programming","French, German",Boston,Art Club,3.5
+210,Physics,"Problem Solving, Public Speaking, Programming, Leadership","Japanese, German, French",Los Angeles,Music Club,3.76
+211,Computer Science,"Public Speaking, Programming, Data Analysis","Japanese, English, Spanish, French, German, Chinese",Los Angeles,Music Club,2.69
+212,Psychology,"Leadership, Programming, Data Analysis, Artistic, Problem Solving",Japanese,Los Angeles,Coding Club,2.47
+213,Computer Science,"Public Speaking, Programming, Data Analysis","French, German, Japanese, English",Houston,Sports Team,3.79
+214,Biology,Artistic,"English, Japanese, Chinese, Spanish",Los Angeles,Volunteer Group,3.34
+215,History,"Leadership, Artistic, Public Speaking, Programming, Problem Solving","French, Japanese",New York,Art Club,2.99
+216,History,"Public Speaking, Artistic, Data Analysis, Leadership, Programming, Problem Solving","French, Chinese, German, Japanese",Boston,Volunteer Group,3.16
+217,History,"Data Analysis, Artistic, Problem Solving, Programming, Public Speaking, Leadership","English, Spanish",New York,Debate Club,2.69
+218,Biology,"Programming, Artistic, Data Analysis, Leadership, Problem Solving, Public Speaking","French, Japanese, Chinese, English, Spanish",Los Angeles,Coding Club,3.06
+219,Biology,"Programming, Problem Solving, Data Analysis, Public Speaking, Artistic, Leadership","Spanish, Japanese, German",Chicago,Art Club,3.59
+220,Biology,"Data Analysis, Leadership","Spanish, English, Japanese, German, French",San Francisco,Art Club,3.24
+221,History,"Programming, Data Analysis, Public Speaking, Problem Solving","German, Japanese, Spanish",San Francisco,Debate Club,2.1
+222,Physics,"Data Analysis, Artistic, Public Speaking",Spanish,New York,Volunteer Group,3.49
+223,Biology,"Leadership, Problem Solving, Data Analysis","Japanese, English, Spanish, Chinese, French",Boston,Volunteer Group,2.06
+224,Physics,"Programming, Public Speaking, Problem Solving, Artistic, Leadership, Data Analysis","French, German, Spanish, Chinese, English, Japanese",Chicago,Coding Club,2.54
+225,Biology,"Leadership, Public Speaking, Programming, Problem Solving","Spanish, English, Chinese, German",Los Angeles,Sports Team,2.87
+226,Computer Science,"Leadership, Public Speaking","Chinese, English, French, German, Japanese",Los Angeles,Volunteer Group,3.26
+227,Mathematics,"Leadership, Problem Solving, Programming, Public Speaking","Japanese, Chinese, Spanish, English",Houston,Coding Club,3.07
+228,Computer Science,Public Speaking,"Spanish, French, Chinese, German",New York,Volunteer Group,2.87
+229,Mathematics,Leadership,"German, Spanish, French",San Francisco,Sports Team,3.78
+230,Biology,"Programming, Public Speaking, Leadership, Artistic, Data Analysis","Chinese, Japanese, French",Houston,Coding Club,3.27
+231,Biology,"Programming, Problem Solving, Artistic, Public Speaking, Leadership, Data Analysis","Spanish, English, French, Japanese",San Francisco,Music Club,2.5
+232,Mathematics,Data Analysis,Spanish,Los Angeles,Music Club,3.75
+233,Biology,"Programming, Problem Solving, Data Analysis","German, Japanese, English, French, Chinese",San Francisco,Coding Club,2.53
+234,Biology,"Programming, Leadership, Public Speaking, Data Analysis, Problem Solving","Spanish, English, Chinese",Houston,Volunteer Group,3.47
+235,History,"Problem Solving, Public Speaking","Spanish, English, French, Chinese",New York,Music Club,3.64
+236,Physics,Leadership,"German, French",Chicago,Debate Club,3.25
+237,Mathematics,"Problem Solving, Leadership, Programming, Public Speaking, Data Analysis","German, Japanese, French, Spanish",Los Angeles,Coding Club,3.06
+238,History,"Problem Solving, Artistic, Leadership, Data Analysis, Programming, Public Speaking","Japanese, German, French",Boston,Music Club,3.47
+239,Psychology,"Programming, Data Analysis, Problem Solving, Public Speaking","English, French, German",Chicago,Music Club,3.63
+240,History,Problem Solving,"Spanish, French, German, English",San Francisco,Music Club,2.84
+241,Mathematics,"Problem Solving, Programming, Leadership, Artistic, Public Speaking","Japanese, German, Chinese",Los Angeles,Volunteer Group,2.73
+242,Physics,"Problem Solving, Data Analysis","English, German, French, Japanese, Chinese, Spanish",Houston,Music Club,3.39
+243,Physics,"Data Analysis, Artistic, Leadership, Problem Solving, Programming, Public Speaking",Chinese,Boston,Art Club,3.09
+244,Computer Science,Artistic,"German, English, Spanish",Chicago,Music Club,3.19
+245,Biology,"Public Speaking, Programming",French,San Francisco,Sports Team,3.02
+246,Psychology,"Leadership, Public Speaking","French, Chinese, English, German, Spanish, Japanese",San Francisco,Debate Club,3.18
+247,Biology,Public Speaking,French,Chicago,Coding Club,3.48
+248,History,"Data Analysis, Artistic, Leadership, Programming, Public Speaking, Problem Solving","German, English, Chinese, French",Los Angeles,Music Club,2.21
+249,Mathematics,"Public Speaking, Data Analysis, Programming, Leadership, Artistic","English, French",Houston,Volunteer Group,3.59
+250,Physics,"Public Speaking, Problem Solving, Data Analysis, Artistic","German, Spanish",Houston,Coding Club,2.58
+251,History,"Data Analysis, Leadership, Problem Solving, Programming",Spanish,Houston,Volunteer Group,3.24
+252,Mathematics,"Artistic, Programming, Problem Solving, Public Speaking, Leadership","Chinese, Japanese, German",Boston,Art Club,2.11
+253,Computer Science,"Artistic, Data Analysis, Programming, Leadership, Problem Solving","Chinese, French, German, Spanish, Japanese, English",Boston,Art Club,2.43
+254,Mathematics,"Programming, Public Speaking, Artistic","English, Japanese",San Francisco,Debate Club,2.56
+255,Psychology,Public Speaking,"Japanese, French, Spanish, Chinese, English",Houston,Debate Club,3.76
+256,Mathematics,"Artistic, Public Speaking, Leadership, Problem Solving, Programming","German, Spanish, French, English",New York,Music Club,3.8
+257,History,"Leadership, Programming, Artistic, Public Speaking","Japanese, Spanish, German",New York,Art Club,2.32
+258,Biology,"Leadership, Programming, Data Analysis","English, German, French, Chinese, Japanese, Spanish",Boston,Music Club,2.37
+259,Biology,"Public Speaking, Problem Solving, Leadership, Artistic",German,San Francisco,Debate Club,3.55
+260,Psychology,"Programming, Data Analysis","Chinese, Japanese, German, Spanish",Los Angeles,Volunteer Group,3.76
+261,Biology,"Artistic, Public Speaking, Programming, Problem Solving, Leadership","English, German, French, Chinese, Japanese, Spanish",Chicago,Volunteer Group,3.75
+262,Computer Science,"Problem Solving, Leadership, Public Speaking","French, Japanese, Chinese, Spanish",San Francisco,Coding Club,2.98
+263,Physics,"Artistic, Leadership, Public Speaking","English, Japanese",Boston,Coding Club,2.17
+264,Biology,"Public Speaking, Artistic","English, Japanese, Chinese, German, Spanish, French",Los Angeles,Sports Team,2.95
+265,Mathematics,"Data Analysis, Problem Solving","Japanese, French, Chinese, German, Spanish, English",Boston,Music Club,2.21
+266,History,"Public Speaking, Problem Solving, Leadership",Japanese,Houston,Coding Club,2.37
+267,Computer Science,"Leadership, Programming, Problem Solving, Artistic, Public Speaking","Spanish, German",San Francisco,Debate Club,2.97
+268,History,"Public Speaking, Leadership, Problem Solving, Programming, Data Analysis, Artistic",Spanish,Chicago,Music Club,3.35
+269,Biology,Data Analysis,"English, German, Spanish",New York,Debate Club,3.23
+270,Mathematics,"Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic, Programming","Chinese, German, French, English",Houston,Music Club,3.84
+271,Mathematics,"Problem Solving, Artistic, Programming, Data Analysis","English, German, Spanish, Japanese",Houston,Coding Club,3.84
+272,Psychology,Data Analysis,"French, English, German, Spanish, Japanese, Chinese",San Francisco,Volunteer Group,3.8
+273,Physics,Artistic,"English, German",Boston,Art Club,2.73
+274,Mathematics,Problem Solving,"Chinese, German, French, Spanish, English, Japanese",Boston,Art Club,3.07
+275,Biology,Programming,"Japanese, English, Chinese, French, Spanish, German",San Francisco,Art Club,3.85
+276,Physics,"Public Speaking, Problem Solving, Leadership, Data Analysis, Artistic, Programming","French, English, Chinese, Japanese, German",San Francisco,Volunteer Group,2.85
+277,Biology,"Artistic, Data Analysis, Programming, Leadership","Japanese, English, French, German, Spanish",Boston,Music Club,3.1
+278,Computer Science,Leadership,"Spanish, Chinese",Chicago,Debate Club,3.96
+279,Mathematics,"Data Analysis, Public Speaking, Leadership","German, Chinese",San Francisco,Music Club,3.94
+280,Psychology,Leadership,"French, German, Japanese, English, Chinese",Boston,Volunteer Group,2.83
+281,History,"Public Speaking, Problem Solving, Artistic, Data Analysis, Programming, Leadership",German,Houston,Volunteer Group,3.73
+282,Mathematics,"Leadership, Public Speaking","Chinese, English, Spanish, Japanese, French, German",New York,Art Club,3.19
+283,Psychology,Public Speaking,"English, French",Chicago,Volunteer Group,2.97
+284,History,"Data Analysis, Public Speaking, Leadership, Artistic, Problem Solving","Spanish, English, German",San Francisco,Art Club,2.08
+285,Biology,Programming,"German, Chinese",Chicago,Art Club,3.28
+286,Physics,"Problem Solving, Public Speaking, Data Analysis, Artistic, Programming, Leadership","Spanish, French, German",Los Angeles,Music Club,3.3
+287,Psychology,"Problem Solving, Data Analysis, Public Speaking, Artistic",Spanish,Chicago,Art Club,2.51
+288,History,"Problem Solving, Public Speaking, Artistic","Japanese, German",New York,Music Club,2.27
+289,Computer Science,Artistic,"Chinese, Japanese",San Francisco,Art Club,3.17
+290,Physics,"Problem Solving, Public Speaking, Programming, Data Analysis, Artistic","English, German, Japanese, French, Spanish",Houston,Volunteer Group,3.57
+291,Physics,"Leadership, Problem Solving, Data Analysis","Spanish, German",Los Angeles,Debate Club,2.81
+292,Psychology,"Leadership, Public Speaking, Artistic, Problem Solving, Programming, Data Analysis","German, Japanese, French, Spanish, Chinese, English",Chicago,Music Club,3.06
+293,History,"Data Analysis, Problem Solving","Spanish, French, Chinese, English, Japanese",Boston,Volunteer Group,3.48
+294,Mathematics,"Problem Solving, Artistic, Public Speaking, Programming, Leadership","German, French, Chinese",Boston,Art Club,3.08
+295,History,"Programming, Artistic, Leadership, Data Analysis, Problem Solving, Public Speaking","German, English, Spanish, French, Chinese, Japanese",Houston,Art Club,3.32
+296,Psychology,"Problem Solving, Programming",Chinese,San Francisco,Debate Club,2.86
+297,Psychology,"Data Analysis, Leadership","Chinese, German, Japanese",Boston,Debate Club,3.65
+298,Computer Science,"Problem Solving, Programming",Spanish,New York,Music Club,2.73
+299,History,"Programming, Leadership","English, Spanish",Houston,Art Club,2.14
+300,Biology,"Artistic, Problem Solving","Japanese, German, English, French",Houston,Debate Club,2.15
+301,Computer Science,"Public Speaking, Leadership, Data Analysis, Problem Solving, Artistic","Spanish, Chinese, German",Houston,Music Club,2.05
+302,Psychology,"Problem Solving, Public Speaking, Data Analysis, Artistic, Programming","Chinese, German",New York,Debate Club,2.3
+303,Biology,"Artistic, Data Analysis, Programming","Chinese, German, Spanish, Japanese, French, English",Boston,Music Club,3.86
+304,Physics,"Artistic, Public Speaking","English, Spanish, French, Chinese",Houston,Music Club,3.48
+305,Mathematics,"Problem Solving, Public Speaking, Artistic, Leadership, Programming, Data Analysis","English, Spanish",Chicago,Art Club,3.45
+306,Mathematics,"Public Speaking, Problem Solving, Leadership, Data Analysis, Artistic","Chinese, German, Spanish",Chicago,Music Club,2.64
+307,Computer Science,"Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic","Japanese, French, Spanish, German, Chinese, English",Boston,Coding Club,2.49
+308,Physics,Leadership,"French, English, Japanese, Chinese, German",New York,Music Club,2.1
+309,Mathematics,"Artistic, Data Analysis, Leadership, Public Speaking, Problem Solving","German, Spanish, Japanese, French",San Francisco,Volunteer Group,3.99
+310,Mathematics,"Leadership, Problem Solving","English, French, Chinese, Spanish, German",Boston,Sports Team,3.89
+311,Physics,"Data Analysis, Programming, Problem Solving, Public Speaking, Artistic, Leadership","German, English, Spanish, Japanese, French, Chinese",Chicago,Sports Team,3.79
+312,Mathematics,"Leadership, Problem Solving, Public Speaking, Programming, Artistic, Data Analysis","Spanish, English",Houston,Volunteer Group,2.4
+313,Biology,"Data Analysis, Problem Solving, Public Speaking, Programming, Leadership",Chinese,Boston,Music Club,3.7
+314,Psychology,Programming,"English, German, Japanese, Chinese",Boston,Art Club,2.15
+315,Mathematics,"Artistic, Public Speaking, Leadership, Data Analysis","Japanese, Chinese, Spanish, English, French, German",San Francisco,Art Club,2.59
+316,History,"Artistic, Public Speaking, Leadership, Programming, Problem Solving, Data Analysis",Chinese,Los Angeles,Music Club,2.97
+317,Psychology,"Artistic, Programming, Public Speaking, Data Analysis, Problem Solving","French, German, Chinese",New York,Sports Team,2.23
+318,Psychology,"Artistic, Leadership","Spanish, Chinese, German",San Francisco,Debate Club,2.02
+319,History,Public Speaking,"English, Chinese, Japanese, Spanish",Boston,Music Club,3.44
+320,Biology,"Artistic, Programming, Problem Solving, Leadership, Public Speaking, Data Analysis","Chinese, German, Spanish, Japanese, English, French",Houston,Music Club,2.75
+321,Physics,Artistic,German,San Francisco,Sports Team,2.67
+322,Biology,"Data Analysis, Artistic, Problem Solving, Leadership, Programming, Public Speaking",Japanese,San Francisco,Debate Club,2.37
+323,History,"Data Analysis, Problem Solving, Programming","Chinese, Japanese, English, Spanish",San Francisco,Coding Club,2.46
+324,Biology,"Data Analysis, Artistic, Public Speaking, Programming","German, Japanese, French, English, Spanish",Boston,Coding Club,2.39
+325,History,"Artistic, Programming","German, English, Chinese, Spanish, French, Japanese",New York,Debate Club,3.81
+326,Biology,"Leadership, Data Analysis, Public Speaking","English, Chinese",New York,Music Club,2.72
+327,History,"Leadership, Data Analysis, Problem Solving","English, Spanish, Japanese, Chinese",Los Angeles,Debate Club,3.65
+328,Psychology,"Public Speaking, Programming, Artistic, Leadership","French, German, Chinese, Spanish",Chicago,Volunteer Group,2.74
+329,Computer Science,"Leadership, Public Speaking","French, Japanese, Spanish",New York,Coding Club,3.62
+330,Psychology,"Artistic, Leadership","Chinese, French, Spanish, German, Japanese, English",New York,Art Club,3.97
+331,Mathematics,"Data Analysis, Programming, Public Speaking, Leadership, Artistic","Spanish, English, French, Japanese, Chinese",New York,Music Club,2.96
+332,Computer Science,Problem Solving,"German, English, Japanese, French, Chinese, Spanish",Los Angeles,Music Club,2.22
+333,Psychology,"Programming, Data Analysis, Artistic, Problem Solving, Public Speaking","Spanish, English, French, Chinese, Japanese",Boston,Art Club,3.4
+334,Mathematics,"Leadership, Problem Solving, Public Speaking, Programming","English, German",Houston,Sports Team,3.15
+335,History,"Leadership, Artistic, Problem Solving, Data Analysis, Public Speaking, Programming","English, Spanish, German, Chinese, Japanese",Los Angeles,Coding Club,2.18
+336,History,"Leadership, Artistic, Programming","Spanish, Japanese, English, French",Houston,Volunteer Group,3.83
+337,Biology,"Public Speaking, Data Analysis, Problem Solving, Leadership, Programming, Artistic","French, German, English, Spanish",Chicago,Music Club,2.52
+338,History,"Leadership, Problem Solving, Programming","English, Japanese, French, Chinese, German, Spanish",Los Angeles,Debate Club,3.37
+339,History,"Problem Solving, Artistic","Japanese, German",Chicago,Music Club,2.26
+340,Biology,"Artistic, Leadership","English, Japanese, Spanish, Chinese",Boston,Coding Club,3.41
+341,History,"Problem Solving, Public Speaking, Programming, Artistic","English, French, Spanish, Japanese, Chinese",San Francisco,Music Club,2.91
+342,Mathematics,"Public Speaking, Problem Solving, Programming, Leadership","French, Japanese, Chinese",Boston,Art Club,2.94
+343,Physics,"Data Analysis, Artistic, Public Speaking, Leadership","German, Japanese",Chicago,Coding Club,2.1
+344,Computer Science,Leadership,"English, Japanese, German",San Francisco,Sports Team,2.63
+345,History,"Problem Solving, Public Speaking, Programming, Artistic, Leadership",Japanese,New York,Music Club,3.57
+346,Mathematics,"Leadership, Programming, Problem Solving, Artistic, Data Analysis, Public Speaking","Japanese, French, English, German, Spanish, Chinese",San Francisco,Coding Club,3.77
+347,Physics,"Public Speaking, Data Analysis, Leadership, Programming","Chinese, German, English",San Francisco,Sports Team,2.62
+348,Psychology,"Problem Solving, Public Speaking, Artistic, Leadership, Data Analysis, Programming","French, Spanish, Chinese, German, Japanese, English",San Francisco,Debate Club,3.77
+349,Psychology,"Artistic, Data Analysis, Programming, Problem Solving, Leadership","English, Japanese, Spanish, German, French, Chinese",New York,Art Club,3.89
+350,Computer Science,Artistic,"English, Chinese, German, Spanish",Boston,Art Club,3.68
+351,Psychology,"Artistic, Problem Solving",Japanese,Chicago,Debate Club,3.31
+352,Computer Science,Programming,"French, German, English, Chinese, Japanese, Spanish",New York,Volunteer Group,3.94
+353,History,"Public Speaking, Artistic, Leadership, Problem Solving, Programming, Data Analysis","Japanese, French, English, Spanish",Houston,Sports Team,2.73
+354,History,"Leadership, Programming, Public Speaking","French, Spanish, English, Chinese, Japanese, German",Houston,Art Club,2.34
+355,Psychology,"Programming, Artistic","Spanish, English, French, Japanese, German",San Francisco,Coding Club,2.05
+356,Mathematics,"Artistic, Public Speaking","English, Japanese, Spanish, German, Chinese",New York,Music Club,3.19
+357,Computer Science,"Problem Solving, Data Analysis","German, Spanish, French, Chinese, Japanese, English",Chicago,Coding Club,3.34
+358,Physics,Programming,"French, Spanish, Chinese, German",New York,Coding Club,3.76
+359,Computer Science,Programming,"English, Japanese, Chinese",Houston,Sports Team,2.54
+360,Psychology,"Artistic, Public Speaking, Leadership, Programming, Data Analysis, Problem Solving","Japanese, Spanish",Los Angeles,Coding Club,2.98
+361,Mathematics,"Problem Solving, Data Analysis, Programming, Leadership","Japanese, French, English, Chinese, Spanish",New York,Music Club,2.71
+362,Computer Science,"Leadership, Public Speaking, Problem Solving, Programming, Artistic, Data Analysis","Japanese, Spanish",San Francisco,Coding Club,2.76
+363,Physics,"Artistic, Problem Solving, Leadership, Public Speaking","French, Chinese, Japanese, English, German, Spanish",San Francisco,Volunteer Group,2.17
+364,Psychology,"Artistic, Programming, Data Analysis, Leadership","English, Japanese",San Francisco,Debate Club,2.43
+365,History,"Public Speaking, Programming, Artistic, Problem Solving, Data Analysis","Chinese, English, German, Spanish",Los Angeles,Volunteer Group,3.68
+366,Computer Science,"Problem Solving, Programming, Leadership","Japanese, German, English, French",Houston,Music Club,2.98
+367,History,"Data Analysis, Programming",German,Chicago,Volunteer Group,3.11
+368,Biology,"Artistic, Leadership, Data Analysis, Programming","Japanese, Chinese",Los Angeles,Music Club,3.56
+369,History,"Data Analysis, Public Speaking, Artistic","Japanese, French, German, Chinese, English, Spanish",Houston,Art Club,2.64
+370,Psychology,"Problem Solving, Public Speaking, Leadership","French, English, Spanish, German, Chinese",New York,Volunteer Group,2.5
+371,Physics,"Problem Solving, Public Speaking, Leadership, Programming, Data Analysis, Artistic","German, English",Boston,Coding Club,2.19
+372,Physics,"Artistic, Leadership","Spanish, German, Japanese",Los Angeles,Debate Club,3.86
+373,Physics,"Data Analysis, Problem Solving","German, Chinese, Spanish, Japanese, English, French",San Francisco,Sports Team,2.43
+374,Computer Science,"Programming, Leadership, Data Analysis, Artistic","Spanish, French, German, Chinese, English",Los Angeles,Music Club,2.86
+375,Physics,"Data Analysis, Artistic, Public Speaking, Programming, Leadership, Problem Solving","Spanish, English",Los Angeles,Sports Team,3.49
+376,Psychology,"Public Speaking, Artistic, Data Analysis, Leadership, Programming, Problem Solving","Chinese, English",San Francisco,Music Club,2.21
+377,History,"Data Analysis, Leadership, Artistic","French, Japanese, English, German",Los Angeles,Coding Club,2.13
+378,Physics,"Problem Solving, Public Speaking, Artistic, Leadership, Programming",French,Houston,Coding Club,2.34
+379,Psychology,"Data Analysis, Problem Solving, Artistic","French, English, Chinese",Houston,Volunteer Group,3.42
+380,Biology,"Problem Solving, Artistic, Public Speaking, Programming, Data Analysis","Spanish, Chinese, French, Japanese, German",San Francisco,Coding Club,2.43
+381,Computer Science,Programming,"Spanish, English",New York,Sports Team,3.96
+382,Computer Science,"Public Speaking, Artistic, Problem Solving, Leadership, Data Analysis","English, German",Houston,Music Club,2.92
+383,Computer Science,"Problem Solving, Data Analysis","Chinese, French, Japanese, German, English",Houston,Debate Club,2.93
+384,Computer Science,Programming,"German, Chinese, Spanish, English, French, Japanese",New York,Debate Club,2.32
+385,Physics,"Problem Solving, Data Analysis, Leadership, Programming","German, Spanish, Japanese, French, Chinese, English",San Francisco,Volunteer Group,2.28
+386,Mathematics,"Programming, Data Analysis, Public Speaking","Chinese, German, Spanish, Japanese, French, English",Houston,Music Club,3.3
+387,Computer Science,"Data Analysis, Public Speaking, Programming",Japanese,San Francisco,Sports Team,3.84
+388,Biology,Artistic,"Chinese, German, Spanish, Japanese",Houston,Sports Team,3.69
+389,Biology,"Leadership, Programming","Japanese, Chinese, English, Spanish, French",Houston,Art Club,3.21
+390,Physics,"Data Analysis, Public Speaking, Artistic, Leadership, Problem Solving","Japanese, German, French",New York,Debate Club,3.31
+391,Mathematics,Leadership,French,Boston,Music Club,3.26
+392,History,"Programming, Data Analysis, Leadership, Artistic, Problem Solving, Public Speaking",German,Los Angeles,Debate Club,2.75
+393,Physics,"Leadership, Public Speaking, Problem Solving, Artistic, Programming","Japanese, French, Spanish",New York,Music Club,3.89
+394,History,"Data Analysis, Problem Solving, Artistic, Public Speaking, Programming","French, Chinese, German, English",Chicago,Art Club,2.72
+395,History,"Leadership, Artistic, Data Analysis, Programming, Problem Solving","Chinese, English, French, German",Chicago,Music Club,2.53
+396,Mathematics,"Programming, Leadership, Artistic, Public Speaking, Data Analysis, Problem Solving",Spanish,Los Angeles,Art Club,3.81
+397,History,"Problem Solving, Artistic, Data Analysis, Public Speaking, Leadership, Programming",English,San Francisco,Sports Team,2.74
+398,Biology,"Programming, Public Speaking, Data Analysis, Problem Solving","Spanish, French",Los Angeles,Music Club,3.94
+399,Mathematics,Leadership,"Japanese, German, English",Boston,Debate Club,3.69
+400,Psychology,"Problem Solving, Leadership, Public Speaking, Artistic, Data Analysis","Japanese, Spanish, German, Chinese, French",San Francisco,Music Club,2.46
+401,Psychology,"Programming, Problem Solving, Data Analysis, Artistic","Japanese, German, English, French, Chinese, Spanish",Los Angeles,Sports Team,3.21
+402,Mathematics,"Problem Solving, Programming, Leadership","English, Japanese, French, Chinese, Spanish",Houston,Volunteer Group,3.64
+403,Physics,"Data Analysis, Artistic","English, Chinese, Japanese, German",New York,Coding Club,3.72
+404,Biology,"Artistic, Leadership","French, English, Spanish",Los Angeles,Debate Club,2.72
+405,Mathematics,"Programming, Public Speaking, Leadership, Data Analysis",Chinese,New York,Coding Club,2.22
+406,History,"Programming, Data Analysis, Leadership, Public Speaking, Artistic","Spanish, French, Japanese",Chicago,Music Club,3.37
+407,Physics,"Public Speaking, Leadership","French, Japanese, Spanish, Chinese, German, English",New York,Sports Team,2.72
+408,Physics,Programming,"Chinese, Spanish, French, English, German, Japanese",San Francisco,Sports Team,3.91
+409,Mathematics,"Artistic, Programming, Leadership, Data Analysis, Problem Solving","French, English, Japanese, German",Houston,Music Club,3.56
+410,Computer Science,"Public Speaking, Artistic, Leadership, Programming","English, French, Japanese, Spanish",San Francisco,Coding Club,2.19
+411,Mathematics,"Programming, Public Speaking, Leadership, Data Analysis, Artistic, Problem Solving","English, German, Chinese, French",San Francisco,Debate Club,2.08
+412,Computer Science,"Leadership, Data Analysis, Programming, Problem Solving, Artistic, Public Speaking","English, Chinese, French, Spanish",Chicago,Music Club,2.73
+413,Biology,"Problem Solving, Leadership, Data Analysis","French, Spanish, German, Chinese",Boston,Music Club,2.42
+414,Mathematics,"Data Analysis, Problem Solving, Leadership, Public Speaking","Spanish, Japanese, German",Chicago,Debate Club,2.36
+415,Psychology,"Data Analysis, Artistic, Leadership",Chinese,Chicago,Volunteer Group,3.37
+416,History,"Public Speaking, Programming, Leadership","Chinese, English, German, Japanese, French",New York,Art Club,2.81
+417,Biology,"Artistic, Public Speaking, Problem Solving, Programming, Leadership","Japanese, Spanish",Boston,Music Club,2.4
+418,Mathematics,"Leadership, Public Speaking, Artistic, Programming",English,San Francisco,Coding Club,3.99
+419,History,"Public Speaking, Problem Solving, Leadership, Data Analysis, Programming","Japanese, German, French, Spanish",New York,Coding Club,3.94
+420,Computer Science,Leadership,"Chinese, Japanese, French",New York,Debate Club,3.71
+421,Mathematics,"Leadership, Problem Solving, Public Speaking, Artistic, Data Analysis","French, German, Spanish",Houston,Sports Team,3.11
+422,Psychology,"Data Analysis, Problem Solving, Artistic, Programming, Leadership","Japanese, German, Chinese",San Francisco,Music Club,2.38
+423,Psychology,"Data Analysis, Problem Solving, Artistic, Public Speaking","German, French, Japanese, Chinese, English",Chicago,Music Club,2.65
+424,Mathematics,"Problem Solving, Artistic, Programming","French, English, Japanese, German",Boston,Sports Team,3.54
+425,Computer Science,"Problem Solving, Leadership, Artistic","German, Chinese",Houston,Music Club,3.14
+426,History,Artistic,"Spanish, French, English",San Francisco,Sports Team,2.99
+427,Mathematics,"Programming, Problem Solving, Artistic",Spanish,New York,Debate Club,2.47
+428,Psychology,"Artistic, Data Analysis, Problem Solving, Leadership, Public Speaking","Spanish, Japanese, English, Chinese, French, German",Boston,Debate Club,2.69
+429,Mathematics,"Leadership, Artistic, Public Speaking, Programming","Chinese, Japanese, Spanish, German, French",San Francisco,Coding Club,2.93
+430,Psychology,Data Analysis,"English, German, Chinese",Los Angeles,Art Club,3.22
+431,Mathematics,"Programming, Artistic, Public Speaking","Japanese, English, German, Chinese, Spanish",Chicago,Coding Club,2.84
+432,Mathematics,"Problem Solving, Artistic, Data Analysis, Public Speaking","Japanese, French, English, German, Spanish, Chinese",Houston,Music Club,3.85
+433,Computer Science,"Problem Solving, Programming, Data Analysis, Public Speaking, Artistic","French, German, English, Spanish, Chinese, Japanese",Los Angeles,Sports Team,2.75
+434,Psychology,"Programming, Problem Solving","German, Japanese, English",Chicago,Sports Team,2.5
+435,Mathematics,"Programming, Artistic, Leadership, Data Analysis","Chinese, Spanish",Los Angeles,Debate Club,2.12
+436,Mathematics,"Programming, Leadership, Artistic",Spanish,New York,Sports Team,2.73
+437,Psychology,"Data Analysis, Public Speaking, Artistic, Problem Solving, Programming","Spanish, German, English, Japanese, French, Chinese",San Francisco,Sports Team,3.48
+438,Psychology,"Public Speaking, Problem Solving, Artistic, Data Analysis, Leadership, Programming","Spanish, English, Japanese, French, German",Chicago,Debate Club,2.37
+439,Psychology,"Programming, Public Speaking, Data Analysis, Problem Solving, Artistic",French,San Francisco,Coding Club,3.06
+440,Mathematics,Leadership,"English, German, Chinese, Spanish, Japanese, French",Chicago,Music Club,3.74
+441,Mathematics,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic","Spanish, Japanese, English, German",Boston,Coding Club,2.72
+442,Computer Science,"Public Speaking, Artistic, Data Analysis, Programming, Problem Solving","English, French, Spanish, German, Chinese",Houston,Art Club,3.05
+443,Psychology,"Leadership, Public Speaking, Artistic, Programming, Data Analysis, Problem Solving","Chinese, Spanish, French",Los Angeles,Coding Club,2.08
+444,Computer Science,"Public Speaking, Leadership, Artistic, Data Analysis","French, Japanese, Spanish",San Francisco,Volunteer Group,2.06
+445,Psychology,"Leadership, Artistic, Public Speaking, Problem Solving, Data Analysis","German, Chinese, Japanese, French",Houston,Music Club,3.83
+446,Physics,"Artistic, Public Speaking, Programming, Problem Solving","English, French, German, Japanese, Chinese, Spanish",Los Angeles,Volunteer Group,2.85
+447,Computer Science,Artistic,"Chinese, English, Spanish, Japanese, French, German",Boston,Art Club,2.78
+448,Physics,"Leadership, Problem Solving, Programming","French, Japanese, German, Spanish",San Francisco,Sports Team,2.63
+449,Psychology,"Artistic, Problem Solving, Leadership","English, German, Spanish",San Francisco,Debate Club,3.33
+450,Computer Science,"Leadership, Public Speaking, Programming, Data Analysis, Problem Solving, Artistic","English, German, Chinese, French",Los Angeles,Debate Club,2.03
+451,Physics,"Artistic, Programming, Problem Solving, Data Analysis","English, French, Japanese, Spanish, German",Los Angeles,Art Club,2.76
+452,History,"Artistic, Programming, Problem Solving, Data Analysis","German, English, French, Japanese, Chinese, Spanish",Boston,Music Club,2.16
+453,History,"Leadership, Public Speaking, Artistic, Problem Solving, Data Analysis, Programming","German, Japanese, French",San Francisco,Debate Club,2.58
+454,Physics,"Data Analysis, Programming, Artistic, Problem Solving, Leadership","German, Chinese, French, English, Spanish",Los Angeles,Debate Club,2.17
+455,Psychology,Leadership,"Japanese, English, German",Boston,Volunteer Group,3.08
+456,Computer Science,"Public Speaking, Problem Solving, Data Analysis, Leadership","French, German, Spanish, English",Houston,Debate Club,3.65
+457,History,"Artistic, Leadership, Problem Solving, Public Speaking, Programming, Data Analysis","Spanish, Chinese, French, English, Japanese, German",New York,Sports Team,2.01
+458,Biology,"Public Speaking, Programming","German, Japanese, English, French, Chinese",San Francisco,Music Club,3.61
+459,Mathematics,"Programming, Leadership","Spanish, German, Japanese, French, Chinese, English",Los Angeles,Music Club,3.48
+460,Psychology,"Data Analysis, Programming, Problem Solving, Leadership, Public Speaking","Spanish, Japanese, English, German",Houston,Coding Club,2.38
+461,History,Data Analysis,French,Houston,Music Club,3.35
+462,Mathematics,"Leadership, Public Speaking, Data Analysis, Programming","German, Spanish, French, Japanese, Chinese",New York,Debate Club,2.84
+463,History,"Programming, Artistic, Data Analysis",Japanese,Los Angeles,Sports Team,2.65
+464,Biology,"Programming, Public Speaking, Leadership, Artistic, Data Analysis","German, Japanese, French",Boston,Sports Team,2.85
+465,History,"Problem Solving, Programming, Public Speaking",Spanish,New York,Music Club,3.45
+466,Biology,"Artistic, Leadership, Data Analysis","Spanish, Japanese",Los Angeles,Coding Club,2.69
+467,Mathematics,"Programming, Leadership, Data Analysis, Problem Solving, Artistic","Japanese, French",Los Angeles,Debate Club,2.7
+468,History,"Leadership, Public Speaking, Artistic, Programming, Problem Solving, Data Analysis","Spanish, Japanese, Chinese, German",Houston,Sports Team,2.96
+469,History,Public Speaking,"Japanese, German, French, English, Spanish, Chinese",Los Angeles,Art Club,3.16
+470,Psychology,"Programming, Leadership, Data Analysis, Public Speaking, Artistic","Spanish, French",Los Angeles,Music Club,2.57
+471,Physics,"Leadership, Data Analysis, Public Speaking, Artistic","Chinese, German",Houston,Art Club,3.14
+472,Biology,"Public Speaking, Leadership, Programming, Problem Solving, Data Analysis, Artistic","English, Japanese, German, Spanish, Chinese, French",Los Angeles,Coding Club,3.51
+473,Mathematics,"Problem Solving, Leadership, Programming, Public Speaking","French, Chinese, German",Chicago,Volunteer Group,2.76
+474,Mathematics,"Artistic, Programming","French, German, English",Houston,Art Club,2.02
+475,Computer Science,"Artistic, Leadership, Problem Solving, Programming, Data Analysis, Public Speaking","Spanish, French",Los Angeles,Music Club,2.01
+476,Biology,"Public Speaking, Problem Solving, Artistic","Chinese, Spanish, German, French, English",Los Angeles,Music Club,3.73
+477,Psychology,Public Speaking,Chinese,San Francisco,Sports Team,2.16
+478,Biology,"Problem Solving, Leadership","German, Spanish, English, Japanese",Chicago,Debate Club,3.51
+479,Physics,"Problem Solving, Data Analysis, Public Speaking, Programming","Japanese, Chinese, German, English, French",San Francisco,Sports Team,3.85
+480,History,"Programming, Problem Solving","English, German, Spanish, Japanese",Los Angeles,Music Club,3.23
+481,Physics,"Artistic, Programming, Data Analysis, Public Speaking, Problem Solving, Leadership",French,Boston,Sports Team,2.12
+482,History,"Problem Solving, Leadership, Artistic, Data Analysis","Japanese, German",Chicago,Art Club,3.67
+483,Biology,"Artistic, Problem Solving, Leadership, Data Analysis, Public Speaking, Programming",English,Los Angeles,Debate Club,2.25
+484,History,"Data Analysis, Leadership","English, German",New York,Music Club,2.75
+485,Computer Science,Data Analysis,"English, French, Japanese, Chinese",Los Angeles,Coding Club,2.88
+486,Biology,"Problem Solving, Data Analysis, Programming","French, Japanese, German, English, Spanish",San Francisco,Music Club,2.6
+487,Biology,"Artistic, Leadership, Data Analysis, Problem Solving","Chinese, Japanese, French, German, English, Spanish",Los Angeles,Art Club,3.79
+488,History,Programming,"Spanish, Chinese, Japanese, German, English, French",Los Angeles,Coding Club,3.04
+489,History,"Programming, Problem Solving, Artistic, Data Analysis","Spanish, English, Japanese, Chinese",New York,Debate Club,3.39
+490,Physics,"Artistic, Data Analysis, Problem Solving, Public Speaking, Programming, Leadership","English, Japanese, Spanish, German",Houston,Debate Club,2.35
+491,History,"Leadership, Programming, Public Speaking, Artistic","German, Spanish",Los Angeles,Sports Team,2.29
+492,History,"Leadership, Problem Solving, Data Analysis, Artistic, Programming, Public Speaking",German,San Francisco,Sports Team,3.17
+493,Psychology,Programming,"Japanese, Spanish, English, Chinese, German, French",New York,Coding Club,2.62
+494,Mathematics,"Artistic, Leadership, Data Analysis","Chinese, French, Spanish, Japanese",San Francisco,Sports Team,2.74
+495,History,"Artistic, Leadership","French, Japanese, German, Spanish, English, Chinese",San Francisco,Art Club,3.14
+496,Biology,Programming,"French, German",Houston,Debate Club,2.63
+497,Psychology,"Data Analysis, Problem Solving, Artistic",German,Boston,Sports Team,3.97
+498,Mathematics,Public Speaking,"German, French, Spanish, English, Chinese, Japanese",New York,Debate Club,3.38
+499,Mathematics,"Data Analysis, Leadership, Artistic, Problem Solving, Programming","Spanish, Japanese",Houston,Music Club,3.14
+500,Biology,"Artistic, Programming, Data Analysis, Problem Solving, Public Speaking, Leadership","French, English, German",Los Angeles,Coding Club,2.71
+501,Biology,"Data Analysis, Programming, Artistic, Problem Solving, Public Speaking","English, French, German, Chinese, Japanese, Spanish",Boston,Volunteer Group,2.28
+502,Physics,Data Analysis,"French, English, German, Chinese, Japanese, Spanish",New York,Sports Team,2.06
+503,Biology,"Public Speaking, Problem Solving, Data Analysis, Programming, Artistic, Leadership","Chinese, English, Japanese, German",Houston,Coding Club,3.11
+504,History,"Data Analysis, Artistic, Leadership, Programming, Public Speaking","English, German, Chinese, Japanese, Spanish, French",Los Angeles,Debate Club,3.28
+505,Psychology,"Programming, Artistic, Data Analysis","French, Japanese, English, Spanish, German, Chinese",Houston,Debate Club,3.15
+506,Psychology,"Data Analysis, Problem Solving, Programming, Public Speaking, Leadership","Japanese, English, German, Chinese, French, Spanish",New York,Volunteer Group,3.84
+507,Psychology,"Leadership, Public Speaking, Artistic, Programming, Data Analysis","Japanese, Chinese, Spanish",San Francisco,Music Club,2.59
+508,History,"Problem Solving, Public Speaking, Programming, Artistic","Spanish, English, Japanese, German, French",Houston,Music Club,2.06
+509,Physics,"Data Analysis, Public Speaking","English, Chinese",New York,Debate Club,3.97
+510,History,"Public Speaking, Programming, Problem Solving, Leadership, Data Analysis, Artistic","Spanish, Chinese, English, French",Boston,Coding Club,3.22
+511,Physics,Programming,"English, Spanish, Chinese, German, Japanese",San Francisco,Sports Team,3.66
+512,Physics,"Leadership, Public Speaking, Data Analysis, Problem Solving, Programming","German, Japanese, Chinese, Spanish, English, French",Chicago,Debate Club,2.8
+513,Biology,"Data Analysis, Artistic, Problem Solving","German, English",Los Angeles,Sports Team,2.55
+514,Computer Science,"Data Analysis, Artistic, Public Speaking, Problem Solving","Japanese, German, Spanish, English",Boston,Coding Club,2.71
+515,Biology,"Data Analysis, Public Speaking","Japanese, Spanish, Chinese, English, French",Boston,Art Club,3.62
+516,Mathematics,Problem Solving,"French, Spanish",Houston,Art Club,2.73
+517,Biology,"Problem Solving, Artistic",German,Los Angeles,Music Club,2.87
+518,Psychology,"Programming, Artistic, Problem Solving","Japanese, Chinese, French, English",San Francisco,Volunteer Group,2.77
+519,Physics,"Data Analysis, Artistic, Leadership","Chinese, Japanese, French, German",Boston,Art Club,3.07
+520,Psychology,"Artistic, Programming, Problem Solving","Japanese, English, Chinese, French, German, Spanish",Boston,Art Club,3.63
+521,History,"Artistic, Leadership, Data Analysis","German, Japanese, Chinese, Spanish, English, French",Houston,Art Club,3.43
+522,History,Artistic,"English, French, Chinese",San Francisco,Music Club,3.57
+523,Psychology,"Data Analysis, Artistic, Programming, Problem Solving, Leadership","English, Chinese, German, Spanish, Japanese, French",Los Angeles,Debate Club,3.35
+524,Physics,Data Analysis,Chinese,New York,Coding Club,2.55
+525,Computer Science,"Programming, Problem Solving, Public Speaking","Japanese, Spanish, Chinese, German, English, French",New York,Music Club,3.89
+526,Physics,"Public Speaking, Problem Solving","Spanish, German",Los Angeles,Volunteer Group,3.72
+527,Physics,Programming,"Chinese, Spanish, English, Japanese, German",Boston,Volunteer Group,3.62
+528,Physics,"Public Speaking, Leadership, Programming, Artistic","French, English, Chinese, Spanish, German, Japanese",Los Angeles,Sports Team,3.58
+529,Mathematics,"Problem Solving, Leadership, Data Analysis, Artistic","German, Japanese",New York,Volunteer Group,3.61
+530,Physics,Problem Solving,"German, Chinese, English, Spanish",Chicago,Music Club,3.6
+531,Psychology,"Public Speaking, Programming, Problem Solving","Chinese, German, English, Japanese",Boston,Debate Club,3.13
+532,History,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking","German, Japanese, Spanish, French",Houston,Coding Club,3.85
+533,Computer Science,"Leadership, Artistic, Programming, Public Speaking, Problem Solving, Data Analysis","Japanese, German, Chinese",San Francisco,Debate Club,3.4
+534,Computer Science,"Programming, Artistic, Problem Solving","Chinese, French, Spanish, Japanese, German",Chicago,Debate Club,4.0
+535,History,Programming,"Japanese, Spanish, French, English, Chinese",New York,Volunteer Group,3.37
+536,Biology,"Artistic, Programming, Public Speaking, Data Analysis, Problem Solving, Leadership","German, English",San Francisco,Sports Team,3.81
+537,Psychology,"Programming, Artistic, Data Analysis, Problem Solving, Public Speaking","Japanese, Chinese, German, French",San Francisco,Debate Club,2.59
+538,Physics,"Public Speaking, Leadership, Problem Solving","German, Spanish, Chinese, French, Japanese, English",Houston,Volunteer Group,2.94
+539,Psychology,"Public Speaking, Leadership, Problem Solving","German, Japanese, Spanish, English",Los Angeles,Art Club,3.58
+540,History,Problem Solving,"Chinese, Spanish, Japanese, English",San Francisco,Sports Team,3.78
+541,History,Problem Solving,"Chinese, Japanese, French",Boston,Music Club,2.55
+542,Mathematics,"Programming, Data Analysis, Leadership, Artistic, Public Speaking",English,Houston,Sports Team,2.24
+543,Biology,"Data Analysis, Leadership, Public Speaking, Artistic",German,Boston,Debate Club,3.39
+544,Physics,"Leadership, Public Speaking, Data Analysis, Artistic","English, German, Chinese",Los Angeles,Sports Team,3.84
+545,Biology,"Problem Solving, Programming, Data Analysis, Leadership, Public Speaking, Artistic","Japanese, French, English",Houston,Coding Club,2.36
+546,Physics,"Artistic, Public Speaking, Problem Solving, Data Analysis, Leadership, Programming","French, German",Chicago,Sports Team,2.37
+547,Physics,"Leadership, Data Analysis, Problem Solving, Public Speaking, Artistic, Programming","German, Spanish",Houston,Sports Team,3.31
+548,Psychology,"Data Analysis, Artistic, Problem Solving","German, English, Spanish, Japanese",Los Angeles,Volunteer Group,3.23
+549,Psychology,"Problem Solving, Public Speaking, Artistic","French, English, German, Chinese, Japanese",Los Angeles,Art Club,3.56
+550,Computer Science,Public Speaking,French,New York,Music Club,3.78
+551,History,Public Speaking,"French, English, Chinese",Houston,Debate Club,3.07
+552,Mathematics,"Problem Solving, Leadership, Data Analysis, Artistic","Chinese, French, Japanese, Spanish",San Francisco,Debate Club,2.91
+553,Mathematics,"Data Analysis, Public Speaking, Programming, Problem Solving",German,Houston,Sports Team,3.72
+554,Physics,"Problem Solving, Artistic, Programming","German, French",San Francisco,Debate Club,3.16
+555,Computer Science,"Problem Solving, Artistic, Programming","German, Spanish",Chicago,Music Club,2.12
+556,Mathematics,"Leadership, Programming, Problem Solving",English,Houston,Debate Club,2.54
+557,Biology,"Problem Solving, Artistic, Programming, Public Speaking, Leadership","German, Japanese",Los Angeles,Art Club,3.5
+558,Psychology,"Artistic, Leadership, Problem Solving, Programming, Data Analysis, Public Speaking","Chinese, Japanese, Spanish, French, German, English",Los Angeles,Sports Team,3.53
+559,Psychology,"Public Speaking, Data Analysis, Programming, Leadership","Japanese, English, French, German, Spanish",New York,Sports Team,3.9
+560,History,"Public Speaking, Artistic","Japanese, German",Los Angeles,Coding Club,2.62
+561,Biology,"Artistic, Leadership, Public Speaking, Programming, Data Analysis","Spanish, Chinese",Chicago,Music Club,2.98
+562,Biology,"Artistic, Programming, Problem Solving, Leadership, Public Speaking, Data Analysis","Japanese, French, German, English, Chinese, Spanish",Chicago,Volunteer Group,3.16
+563,Computer Science,Data Analysis,"Japanese, Spanish, German",San Francisco,Volunteer Group,3.02
+564,History,"Data Analysis, Public Speaking","German, Chinese, Japanese, Spanish",New York,Music Club,2.63
+565,Physics,"Data Analysis, Leadership, Public Speaking, Artistic","Japanese, German",New York,Volunteer Group,2.8
+566,Mathematics,"Public Speaking, Problem Solving, Programming, Artistic, Data Analysis","German, English, French, Chinese, Spanish",Houston,Music Club,3.8
+567,Psychology,"Public Speaking, Programming","French, Chinese, English",New York,Music Club,2.56
+568,Biology,"Programming, Problem Solving, Data Analysis, Leadership, Artistic, Public Speaking","English, Japanese, German, Spanish",San Francisco,Sports Team,3.55
+569,Biology,Data Analysis,French,Los Angeles,Art Club,2.95
+570,Mathematics,"Leadership, Data Analysis, Artistic","Chinese, Japanese, French, German, English",Chicago,Coding Club,2.24
+571,History,"Public Speaking, Programming, Artistic","German, Spanish, Chinese, English, French, Japanese",Boston,Music Club,3.96
+572,Mathematics,"Artistic, Data Analysis","German, Chinese, Japanese, French",San Francisco,Debate Club,2.82
+573,Mathematics,"Programming, Artistic, Leadership, Public Speaking, Problem Solving, Data Analysis","Chinese, Spanish, Japanese",Boston,Debate Club,3.5
+574,Mathematics,Leadership,"Spanish, Chinese, French",New York,Debate Club,3.97
+575,Psychology,"Problem Solving, Artistic, Programming, Public Speaking, Data Analysis","Spanish, Japanese",New York,Coding Club,2.89
+576,Physics,"Artistic, Problem Solving, Leadership, Public Speaking","French, Spanish, German, English, Chinese",Boston,Volunteer Group,2.9
+577,Physics,Public Speaking,"German, Chinese, Japanese, French, Spanish",Boston,Art Club,3.06
+578,Biology,"Programming, Public Speaking, Artistic, Problem Solving","Spanish, English, Japanese",Boston,Volunteer Group,3.41
+579,History,"Public Speaking, Programming, Leadership","English, Spanish",New York,Coding Club,3.35
+580,History,"Leadership, Problem Solving","Chinese, English, German",Los Angeles,Volunteer Group,2.46
+581,Biology,"Programming, Data Analysis, Artistic, Public Speaking, Problem Solving, Leadership","French, English",Houston,Art Club,2.43
+582,History,Artistic,"Spanish, French",Boston,Coding Club,3.89
+583,Biology,Artistic,"English, Spanish, Japanese",Houston,Sports Team,2.79
+584,Physics,"Programming, Public Speaking, Data Analysis","French, English",San Francisco,Volunteer Group,2.09
+585,Biology,"Public Speaking, Artistic, Problem Solving, Programming","Japanese, Chinese",Los Angeles,Coding Club,2.79
+586,History,"Programming, Artistic, Leadership, Public Speaking, Data Analysis","German, Japanese, Spanish",Los Angeles,Volunteer Group,3.65
+587,Psychology,"Programming, Problem Solving","Japanese, English",Chicago,Art Club,2.5
+588,History,"Leadership, Artistic, Data Analysis",English,Houston,Music Club,2.67
+589,Mathematics,"Data Analysis, Leadership, Artistic, Programming, Problem Solving, Public Speaking","French, English, Chinese, Japanese",Houston,Volunteer Group,2.87
+590,Biology,"Problem Solving, Programming, Leadership, Artistic, Data Analysis, Public Speaking","French, Japanese",Boston,Music Club,2.48
+591,Mathematics,Problem Solving,"Chinese, German, English, Japanese, French, Spanish",New York,Volunteer Group,3.45
+592,Psychology,"Problem Solving, Artistic, Public Speaking, Leadership","Spanish, Chinese, English, Japanese",Chicago,Debate Club,3.33
+593,Physics,"Public Speaking, Leadership, Problem Solving","German, English, French",New York,Coding Club,3.65
+594,Computer Science,"Artistic, Public Speaking, Problem Solving, Data Analysis","French, Spanish, English, Chinese, Japanese",New York,Music Club,2.91
+595,Mathematics,"Public Speaking, Artistic, Problem Solving, Data Analysis, Programming","Japanese, German, French, Spanish, Chinese, English",Houston,Volunteer Group,3.43
+596,Computer Science,"Artistic, Problem Solving, Programming, Leadership","German, Chinese, Spanish",Boston,Debate Club,3.92
+597,Computer Science,"Artistic, Leadership, Programming, Public Speaking, Data Analysis, Problem Solving","French, Spanish, German, Japanese, Chinese, English",Boston,Art Club,3.36
+598,History,"Leadership, Public Speaking, Programming, Artistic",Spanish,Houston,Music Club,2.57
+599,Psychology,"Problem Solving, Leadership, Programming, Artistic","German, Japanese, Chinese, English, Spanish",Houston,Music Club,2.49
+600,Physics,"Data Analysis, Programming, Problem Solving","Spanish, French",New York,Music Club,2.8
+601,Psychology,"Leadership, Public Speaking, Problem Solving, Artistic, Data Analysis","Chinese, English, French, German",Los Angeles,Volunteer Group,2.85
+602,Mathematics,"Data Analysis, Programming, Public Speaking","English, Chinese, Spanish, French",Los Angeles,Sports Team,3.96
+603,Computer Science,"Artistic, Programming, Public Speaking, Data Analysis, Problem Solving, Leadership",German,Los Angeles,Art Club,2.13
+604,Physics,"Public Speaking, Artistic",English,Chicago,Volunteer Group,2.51
+605,Computer Science,"Programming, Artistic, Leadership","English, Chinese, Spanish, Japanese, German",Boston,Debate Club,3.27
+606,Computer Science,"Problem Solving, Artistic","Japanese, German, Chinese, Spanish",Houston,Volunteer Group,2.69
+607,Computer Science,"Public Speaking, Programming, Problem Solving, Leadership, Data Analysis, Artistic","German, Japanese, French",Houston,Coding Club,2.8
+608,Computer Science,"Problem Solving, Data Analysis","French, Chinese, Spanish",Houston,Music Club,3.04
+609,Physics,"Public Speaking, Artistic, Data Analysis, Problem Solving, Leadership","English, Spanish, Chinese, German",San Francisco,Music Club,3.46
+610,Computer Science,"Public Speaking, Programming, Data Analysis, Leadership, Problem Solving","Spanish, German, French",Los Angeles,Coding Club,2.95
+611,Physics,Artistic,"German, Japanese, English, Spanish, French",Chicago,Coding Club,3.73
+612,Psychology,"Public Speaking, Problem Solving, Data Analysis, Artistic, Leadership, Programming","German, Chinese, Spanish, English, Japanese",Los Angeles,Sports Team,2.89
+613,Biology,"Leadership, Problem Solving, Programming, Data Analysis, Artistic, Public Speaking","Chinese, Japanese, English",San Francisco,Art Club,2.41
+614,Mathematics,"Leadership, Public Speaking","French, Spanish, Chinese, English, Japanese, German",San Francisco,Coding Club,3.14
+615,Psychology,"Public Speaking, Artistic","Japanese, English, Spanish",New York,Volunteer Group,2.04
+616,History,Programming,"English, Spanish",Los Angeles,Debate Club,3.39
+617,Physics,"Artistic, Public Speaking, Data Analysis, Programming","Spanish, English, German, Japanese",Los Angeles,Art Club,2.2
+618,Biology,Data Analysis,"Spanish, Chinese, French, Japanese, English, German",Chicago,Sports Team,3.32
+619,Computer Science,Programming,"Japanese, French, Chinese, English, German, Spanish",Los Angeles,Coding Club,3.69
+620,History,"Programming, Public Speaking","French, Japanese, Spanish, Chinese",San Francisco,Coding Club,3.06
+621,Computer Science,"Data Analysis, Artistic","French, Japanese, Chinese, English, Spanish, German",New York,Volunteer Group,2.49
+622,Mathematics,"Programming, Data Analysis, Public Speaking, Leadership, Artistic, Problem Solving","German, French, Chinese, Spanish",Los Angeles,Coding Club,3.43
+623,Mathematics,"Public Speaking, Problem Solving, Artistic, Programming","Chinese, Japanese, French",San Francisco,Volunteer Group,3.81
+624,Mathematics,"Problem Solving, Public Speaking, Artistic, Data Analysis, Programming","Chinese, German",New York,Volunteer Group,3.33
+625,Biology,"Data Analysis, Programming",German,San Francisco,Coding Club,3.52
+626,History,Artistic,"Spanish, Chinese, Japanese, English, French",Boston,Sports Team,2.76
+627,Computer Science,Leadership,"English, French, Japanese, Spanish",Los Angeles,Art Club,3.75
+628,Psychology,"Artistic, Problem Solving, Programming","Japanese, English, Spanish",Los Angeles,Art Club,2.71
+629,Physics,Leadership,"Chinese, Japanese",Los Angeles,Volunteer Group,2.13
+630,Physics,"Leadership, Data Analysis, Artistic","Spanish, German, English",San Francisco,Volunteer Group,2.95
+631,Mathematics,"Programming, Leadership, Artistic, Data Analysis, Public Speaking, Problem Solving","Japanese, Spanish, English",New York,Coding Club,2.24
+632,Biology,"Public Speaking, Artistic, Programming","Chinese, English, Spanish, French, German, Japanese",Houston,Music Club,3.93
+633,Psychology,"Public Speaking, Data Analysis, Artistic, Problem Solving, Programming, Leadership",German,Los Angeles,Coding Club,3.52
+634,History,"Data Analysis, Leadership","English, Japanese, German, Spanish, Chinese, French",Los Angeles,Music Club,3.69
+635,Computer Science,"Problem Solving, Programming, Leadership, Public Speaking","Spanish, English, French, Japanese, German",San Francisco,Coding Club,3.15
+636,Psychology,"Programming, Public Speaking, Leadership",Spanish,Houston,Debate Club,2.71
+637,History,"Public Speaking, Problem Solving, Artistic",English,Boston,Volunteer Group,2.19
+638,Psychology,Leadership,"English, French, Chinese, German, Japanese",New York,Sports Team,3.46
+639,Physics,"Programming, Problem Solving, Data Analysis","Spanish, Chinese, German, French",Houston,Volunteer Group,2.71
+640,Mathematics,Artistic,"Chinese, German",Boston,Art Club,3.42
+641,Mathematics,"Artistic, Data Analysis, Programming",Spanish,New York,Sports Team,3.61
+642,Psychology,"Problem Solving, Data Analysis, Leadership",Japanese,Boston,Art Club,2.78
+643,Mathematics,"Public Speaking, Data Analysis, Programming, Leadership","French, German",Chicago,Music Club,3.64
+644,Psychology,"Programming, Public Speaking, Problem Solving, Data Analysis",English,Los Angeles,Debate Club,3.83
+645,Biology,"Data Analysis, Artistic, Leadership, Problem Solving, Public Speaking, Programming","Chinese, English, Spanish, Japanese, German, French",Boston,Art Club,3.55
+646,Physics,"Problem Solving, Artistic, Leadership, Programming, Data Analysis, Public Speaking",English,Los Angeles,Art Club,2.08
+647,Mathematics,"Data Analysis, Leadership, Programming, Public Speaking, Problem Solving","Chinese, French, German",San Francisco,Art Club,3.81
+648,Physics,"Problem Solving, Programming, Data Analysis, Public Speaking, Leadership, Artistic","Japanese, Spanish",Houston,Music Club,2.21
+649,Physics,"Leadership, Data Analysis, Programming, Problem Solving, Artistic, Public Speaking","Japanese, Spanish, Chinese, German",Houston,Music Club,2.01
+650,History,Leadership,"Japanese, English",Los Angeles,Music Club,3.74
+651,History,"Leadership, Programming, Problem Solving, Public Speaking, Artistic","Spanish, Chinese, German, French",Chicago,Music Club,3.31
+652,Physics,"Data Analysis, Public Speaking, Artistic, Programming","German, Spanish, English",San Francisco,Coding Club,2.61
+653,History,"Artistic, Public Speaking, Data Analysis, Problem Solving, Programming, Leadership","Japanese, French",Boston,Debate Club,2.47
+654,Biology,"Artistic, Data Analysis","French, English",San Francisco,Sports Team,2.14
+655,History,"Data Analysis, Artistic, Public Speaking, Problem Solving, Leadership, Programming","Chinese, French",New York,Music Club,2.51
+656,Computer Science,"Artistic, Problem Solving, Public Speaking, Data Analysis, Programming","English, German, French, Japanese, Spanish",Houston,Debate Club,2.4
+657,Psychology,"Programming, Public Speaking","English, German, French, Japanese",San Francisco,Volunteer Group,3.96
+658,Psychology,"Data Analysis, Problem Solving","English, Chinese, Spanish",Houston,Music Club,2.08
+659,Psychology,"Leadership, Artistic, Problem Solving","French, Spanish",Boston,Art Club,2.8
+660,Biology,"Leadership, Programming, Public Speaking, Data Analysis, Artistic, Problem Solving","French, Japanese",New York,Art Club,3.38
+661,Physics,"Problem Solving, Leadership, Data Analysis, Public Speaking, Artistic, Programming","Spanish, French, Japanese",San Francisco,Debate Club,2.19
+662,Computer Science,"Data Analysis, Artistic, Leadership, Programming, Problem Solving","French, Chinese",Houston,Debate Club,2.38
+663,Mathematics,"Programming, Public Speaking","German, Chinese, English, French",New York,Volunteer Group,3.63
+664,Physics,"Leadership, Public Speaking, Programming","Spanish, French, Japanese, Chinese",Los Angeles,Art Club,2.02
+665,Psychology,Artistic,"Chinese, Japanese",Houston,Sports Team,3.91
+666,Physics,"Data Analysis, Problem Solving, Public Speaking, Leadership, Programming","Chinese, English",Boston,Coding Club,3.87
+667,Mathematics,"Data Analysis, Leadership, Artistic, Public Speaking, Programming","German, French",San Francisco,Debate Club,2.08
+668,History,"Programming, Problem Solving, Data Analysis, Artistic, Leadership, Public Speaking","Spanish, German, English, Japanese, Chinese",Los Angeles,Coding Club,2.09
+669,Biology,"Data Analysis, Problem Solving, Programming, Leadership",English,Houston,Sports Team,3.54
+670,Psychology,Data Analysis,"German, Japanese",New York,Art Club,3.54
+671,Psychology,"Public Speaking, Leadership, Data Analysis, Programming, Problem Solving","German, Japanese, English",Chicago,Art Club,3.18
+672,Physics,"Data Analysis, Public Speaking, Problem Solving","German, Japanese, English, Chinese, Spanish",Chicago,Volunteer Group,3.38
+673,Computer Science,"Leadership, Public Speaking, Programming, Problem Solving",French,Chicago,Volunteer Group,2.41
+674,Computer Science,"Leadership, Artistic, Programming","German, Chinese, French, Japanese, English",New York,Debate Club,3.24
+675,Biology,"Problem Solving, Data Analysis, Public Speaking, Leadership, Programming, Artistic",Spanish,San Francisco,Volunteer Group,2.56
+676,Mathematics,"Leadership, Public Speaking, Problem Solving","Japanese, Spanish",Houston,Volunteer Group,2.93
+677,Mathematics,Data Analysis,"Spanish, German, English, French",San Francisco,Music Club,2.17
+678,Biology,Problem Solving,"Spanish, English, French, Chinese",Los Angeles,Volunteer Group,2.19
+679,Psychology,"Problem Solving, Data Analysis, Public Speaking, Leadership","Japanese, German, English",Houston,Volunteer Group,2.75
+680,Physics,"Programming, Leadership, Data Analysis, Artistic, Public Speaking, Problem Solving","Spanish, German, Chinese, French, Japanese",Chicago,Volunteer Group,3.14
+681,Biology,"Artistic, Data Analysis, Leadership, Problem Solving, Public Speaking, Programming","Chinese, Spanish",Chicago,Debate Club,3.05
+682,Mathematics,"Programming, Public Speaking, Data Analysis","Spanish, French, German, English, Chinese",Houston,Music Club,3.86
+683,Biology,"Problem Solving, Data Analysis, Public Speaking, Programming","German, French, Japanese, Chinese, English",Los Angeles,Art Club,2.68
+684,Computer Science,"Leadership, Problem Solving, Data Analysis","English, German, French",Houston,Music Club,3.47
+685,History,"Artistic, Data Analysis",French,Houston,Art Club,3.13
+686,Mathematics,"Leadership, Artistic","Japanese, French, German, Chinese, Spanish, English",Los Angeles,Sports Team,2.14
+687,Biology,Data Analysis,"German, Chinese, Spanish, Japanese",Boston,Debate Club,3.94
+688,Mathematics,"Artistic, Public Speaking, Data Analysis, Leadership",French,Houston,Art Club,2.29
+689,History,"Artistic, Data Analysis, Problem Solving, Public Speaking, Programming, Leadership","English, Japanese, German, Chinese",Chicago,Music Club,3.06
+690,Biology,"Programming, Leadership, Problem Solving",German,Houston,Coding Club,2.88
+691,Psychology,"Data Analysis, Leadership, Artistic, Problem Solving, Programming","English, Japanese",Houston,Coding Club,3.31
+692,Mathematics,"Data Analysis, Artistic, Public Speaking, Programming, Leadership","Japanese, French, Spanish, German",Boston,Sports Team,3.02
+693,Computer Science,Leadership,"Spanish, German, English, French, Japanese, Chinese",Boston,Coding Club,2.42
+694,Biology,"Leadership, Data Analysis, Programming, Problem Solving, Artistic, Public Speaking",English,Chicago,Debate Club,2.43
+695,Biology,"Problem Solving, Leadership, Programming, Artistic, Data Analysis, Public Speaking","French, Japanese",New York,Coding Club,2.45
+696,Computer Science,Programming,"Chinese, German, French, Spanish",San Francisco,Debate Club,2.14
+697,Mathematics,"Artistic, Data Analysis, Programming, Problem Solving, Public Speaking","Chinese, English",Houston,Volunteer Group,3.85
+698,Computer Science,"Leadership, Programming, Public Speaking","Chinese, German",Chicago,Art Club,3.7
+699,Biology,"Public Speaking, Problem Solving, Artistic, Data Analysis, Leadership","Spanish, Chinese, German",Los Angeles,Coding Club,2.97
+700,Psychology,"Problem Solving, Programming, Leadership, Data Analysis, Artistic","Japanese, French, German",New York,Music Club,3.77
+701,History,"Programming, Artistic, Leadership, Problem Solving","Japanese, French, Chinese, Spanish, German",New York,Volunteer Group,2.95
+702,Physics,"Public Speaking, Artistic, Programming, Leadership",English,San Francisco,Sports Team,3.09
+703,Mathematics,"Artistic, Leadership, Public Speaking, Programming, Problem Solving","German, English",New York,Debate Club,3.58
+704,Computer Science,"Leadership, Data Analysis",Chinese,New York,Debate Club,2.02
+705,Computer Science,Leadership,French,Boston,Sports Team,3.11
+706,Computer Science,"Leadership, Programming, Problem Solving, Artistic","Japanese, Chinese, English, Spanish, German",New York,Debate Club,2.33
+707,Physics,"Programming, Artistic, Public Speaking, Problem Solving, Data Analysis, Leadership","Chinese, French",San Francisco,Debate Club,3.82
+708,Computer Science,"Leadership, Data Analysis, Programming, Public Speaking, Problem Solving","French, English, Chinese",San Francisco,Debate Club,3.24
+709,History,"Leadership, Problem Solving, Artistic","Spanish, English, French, German, Chinese, Japanese",San Francisco,Sports Team,3.07
+710,Computer Science,"Public Speaking, Data Analysis, Problem Solving, Artistic, Leadership","Spanish, German, Chinese, Japanese, French, English",Los Angeles,Music Club,2.51
+711,Biology,"Public Speaking, Leadership, Problem Solving, Programming, Data Analysis",German,San Francisco,Volunteer Group,2.82
+712,Biology,"Problem Solving, Leadership, Public Speaking, Artistic, Programming","Spanish, Chinese, German, English, Japanese",Houston,Art Club,2.86
+713,Mathematics,Problem Solving,Chinese,Houston,Volunteer Group,3.21
+714,Physics,"Programming, Data Analysis, Problem Solving, Artistic, Public Speaking",Japanese,Los Angeles,Volunteer Group,3.63
+715,Psychology,"Public Speaking, Data Analysis, Artistic, Problem Solving","English, German",New York,Sports Team,3.0
+716,Biology,"Public Speaking, Data Analysis","English, Chinese, French, Spanish",Los Angeles,Volunteer Group,2.5
+717,Physics,"Data Analysis, Leadership, Problem Solving, Programming, Artistic, Public Speaking",Spanish,New York,Coding Club,3.85
+718,Physics,"Programming, Data Analysis, Problem Solving, Leadership","Japanese, German, Spanish, French",New York,Sports Team,3.01
+719,Computer Science,Data Analysis,"Chinese, German, Spanish, Japanese, French",Houston,Art Club,3.45
+720,Computer Science,"Problem Solving, Programming, Leadership, Data Analysis, Public Speaking","German, Spanish, English, Japanese, French",Los Angeles,Debate Club,3.46
+721,Psychology,"Public Speaking, Programming, Data Analysis","French, Japanese, German, Chinese",San Francisco,Music Club,2.29
+722,Biology,"Leadership, Problem Solving, Public Speaking","German, French, English, Japanese, Spanish, Chinese",Houston,Debate Club,2.67
+723,Psychology,"Data Analysis, Programming, Artistic","Chinese, English, German, Spanish, Japanese",New York,Debate Club,3.13
+724,Computer Science,Leadership,"Spanish, Japanese, Chinese",Boston,Debate Club,2.2
+725,Biology,"Data Analysis, Programming","German, Chinese, Spanish, French",San Francisco,Volunteer Group,2.52
+726,History,"Problem Solving, Artistic","French, Chinese, Spanish, English",New York,Coding Club,3.58
+727,History,"Problem Solving, Public Speaking, Leadership","Chinese, Spanish, German, English, Japanese, French",Chicago,Sports Team,3.49
+728,Biology,"Problem Solving, Leadership, Data Analysis, Public Speaking",Japanese,San Francisco,Debate Club,3.61
+729,Physics,"Data Analysis, Public Speaking","German, English, Spanish, French, Japanese, Chinese",Boston,Coding Club,2.89
+730,History,"Programming, Leadership, Artistic, Problem Solving, Public Speaking","Chinese, German",Los Angeles,Sports Team,2.35
+731,Physics,"Leadership, Data Analysis, Artistic, Problem Solving",Japanese,San Francisco,Coding Club,2.0
+732,Mathematics,"Public Speaking, Artistic, Problem Solving, Programming, Data Analysis, Leadership",Spanish,San Francisco,Art Club,3.9
+733,Computer Science,"Problem Solving, Public Speaking, Programming",French,Boston,Music Club,3.2
+734,Psychology,Data Analysis,"Spanish, German",San Francisco,Debate Club,2.27
+735,Computer Science,"Programming, Public Speaking, Artistic, Problem Solving","Spanish, English, French",New York,Art Club,2.64
+736,Psychology,"Leadership, Data Analysis, Public Speaking","Chinese, Japanese",New York,Volunteer Group,3.84
+737,Psychology,"Problem Solving, Public Speaking, Programming, Artistic, Leadership, Data Analysis",Japanese,New York,Sports Team,3.9
+738,Psychology,"Problem Solving, Public Speaking",German,Boston,Music Club,3.67
+739,Mathematics,"Data Analysis, Leadership, Artistic, Problem Solving, Programming","Japanese, French, Spanish",Houston,Coding Club,3.87
+740,Computer Science,"Artistic, Data Analysis, Programming, Leadership","Spanish, English, German, Chinese",Boston,Art Club,3.72
+741,Computer Science,"Leadership, Data Analysis, Public Speaking, Problem Solving, Artistic, Programming","German, Chinese, French, Spanish",San Francisco,Art Club,3.71
+742,Computer Science,Artistic,"German, French",San Francisco,Volunteer Group,2.15
+743,History,"Artistic, Programming, Data Analysis","German, English",Chicago,Volunteer Group,2.57
+744,Physics,"Leadership, Artistic, Data Analysis","Spanish, English, French",Los Angeles,Debate Club,3.91
+745,Physics,"Public Speaking, Artistic, Data Analysis, Problem Solving, Leadership","Japanese, Chinese, English, German, French, Spanish",Chicago,Art Club,2.93
+746,Biology,"Data Analysis, Artistic","Japanese, French, Spanish, Chinese",New York,Art Club,2.1
+747,History,"Programming, Data Analysis","English, French, Spanish, Chinese, Japanese",New York,Volunteer Group,3.77
+748,Mathematics,"Programming, Public Speaking, Leadership, Data Analysis, Artistic, Problem Solving","Chinese, German, English, French, Spanish, Japanese",San Francisco,Art Club,3.47
+749,History,"Leadership, Artistic, Problem Solving, Public Speaking, Data Analysis",German,San Francisco,Coding Club,3.64
+750,Psychology,"Leadership, Data Analysis, Programming, Artistic, Public Speaking","French, German, Japanese",San Francisco,Coding Club,3.23
+751,Biology,Leadership,"Japanese, Chinese, Spanish, English, French, German",New York,Sports Team,3.95
+752,Biology,Problem Solving,"English, French, Japanese, German",Chicago,Coding Club,3.51
+753,Computer Science,"Data Analysis, Public Speaking, Programming, Problem Solving, Leadership, Artistic","Japanese, Chinese",Boston,Volunteer Group,3.47
+754,Mathematics,"Programming, Public Speaking","Japanese, German, Chinese",Los Angeles,Art Club,3.05
+755,Biology,Programming,English,Los Angeles,Debate Club,2.22
+756,Psychology,"Programming, Leadership, Data Analysis","English, Japanese, French",Boston,Debate Club,2.22
+757,Mathematics,"Leadership, Public Speaking, Data Analysis, Programming, Problem Solving, Artistic","Spanish, Japanese, German, Chinese, French",New York,Sports Team,2.43
+758,Psychology,"Data Analysis, Artistic, Programming, Problem Solving, Leadership","Spanish, German",Boston,Art Club,3.72
+759,Psychology,"Programming, Data Analysis, Artistic, Problem Solving, Public Speaking","English, German, Spanish, Chinese, Japanese, French",Chicago,Music Club,3.57
+760,Psychology,"Data Analysis, Leadership, Problem Solving, Public Speaking","Japanese, Spanish",Boston,Volunteer Group,2.71
+761,Computer Science,"Leadership, Data Analysis, Programming","Spanish, English",San Francisco,Volunteer Group,2.88
+762,Computer Science,"Data Analysis, Problem Solving, Programming, Leadership, Public Speaking","German, Spanish, Chinese",Houston,Art Club,2.95
+763,Biology,"Problem Solving, Data Analysis, Leadership, Artistic, Public Speaking","Spanish, English, French, German, Japanese, Chinese",San Francisco,Art Club,2.35
+764,History,"Artistic, Problem Solving","Spanish, German, Chinese",Boston,Coding Club,3.18
+765,Psychology,"Public Speaking, Programming, Problem Solving, Leadership, Data Analysis","Chinese, German",San Francisco,Sports Team,2.87
+766,Mathematics,Public Speaking,French,Los Angeles,Music Club,2.86
+767,Psychology,"Programming, Public Speaking, Data Analysis","Spanish, German, French, English, Japanese, Chinese",Chicago,Sports Team,2.8
+768,Biology,"Artistic, Data Analysis, Leadership, Public Speaking, Problem Solving, Programming","French, English, Spanish",Chicago,Volunteer Group,2.35
+769,Computer Science,"Programming, Data Analysis, Artistic, Public Speaking","Japanese, German, Chinese, English, Spanish, French",New York,Coding Club,2.94
+770,History,Data Analysis,Japanese,Chicago,Debate Club,3.63
+771,Physics,"Data Analysis, Public Speaking","Spanish, French, Japanese, English, Chinese",Boston,Music Club,2.98
+772,Biology,"Leadership, Programming, Public Speaking, Artistic, Data Analysis, Problem Solving","German, French",Los Angeles,Debate Club,2.34
+773,Physics,"Public Speaking, Data Analysis","Spanish, German, French",San Francisco,Coding Club,2.39
+774,Biology,"Public Speaking, Problem Solving","French, Japanese, Chinese, English",Los Angeles,Debate Club,3.65
+775,Biology,"Problem Solving, Data Analysis, Programming, Leadership, Artistic","Spanish, German, French, Chinese",Houston,Coding Club,3.37
+776,Physics,"Public Speaking, Data Analysis, Leadership","French, Spanish, English, Chinese, Japanese",Los Angeles,Sports Team,2.6
+777,Computer Science,"Programming, Problem Solving, Data Analysis, Artistic",German,Boston,Music Club,2.46
+778,History,"Data Analysis, Problem Solving, Leadership, Public Speaking","Japanese, English, German, Chinese",Boston,Sports Team,3.03
+779,History,"Problem Solving, Programming, Leadership, Data Analysis, Public Speaking, Artistic","Chinese, Spanish, German",New York,Music Club,2.72
+780,Mathematics,"Programming, Artistic, Leadership, Public Speaking","German, English, Spanish, Chinese",Boston,Music Club,2.25
+781,Computer Science,"Programming, Public Speaking, Problem Solving","German, Japanese, Spanish, Chinese",Houston,Art Club,2.73
+782,Mathematics,"Programming, Leadership, Artistic, Data Analysis, Problem Solving",Spanish,New York,Debate Club,3.74
+783,Physics,"Public Speaking, Artistic, Problem Solving, Programming, Leadership","English, Spanish, German, Japanese",Chicago,Coding Club,3.27
+784,History,"Problem Solving, Leadership, Artistic, Public Speaking, Programming, Data Analysis","Spanish, English",New York,Music Club,3.13
+785,Psychology,"Artistic, Public Speaking, Data Analysis, Programming, Leadership","English, Spanish, Chinese, German, French, Japanese",Boston,Volunteer Group,2.49
+786,Biology,"Leadership, Programming","French, Chinese",Houston,Debate Club,2.0
+787,History,Data Analysis,"Chinese, English, German, Japanese, French",Boston,Music Club,2.05
+788,History,"Programming, Leadership, Data Analysis, Problem Solving, Artistic, Public Speaking","German, Japanese, Chinese, English",San Francisco,Volunteer Group,3.16
+789,History,Problem Solving,"French, German, Chinese, Spanish, English",Los Angeles,Music Club,3.0
+790,Computer Science,Programming,"French, Chinese",Los Angeles,Coding Club,2.9
+791,Computer Science,"Programming, Problem Solving, Artistic, Data Analysis, Leadership",French,Los Angeles,Art Club,3.42
+792,Psychology,"Artistic, Public Speaking","English, Spanish, French, German, Chinese",Los Angeles,Sports Team,3.38
+793,Psychology,"Artistic, Programming, Data Analysis, Leadership","English, Chinese, Spanish, Japanese, French, German",New York,Sports Team,2.38
+794,Biology,"Leadership, Data Analysis, Problem Solving, Programming, Public Speaking, Artistic","Japanese, English, German, Chinese, Spanish",Boston,Art Club,2.72
+795,Mathematics,"Data Analysis, Artistic, Programming, Public Speaking, Problem Solving, Leadership",Japanese,Houston,Art Club,3.05
+796,Psychology,"Leadership, Problem Solving","English, Chinese",Chicago,Music Club,3.41
+797,Computer Science,Problem Solving,"Japanese, Spanish",San Francisco,Music Club,2.98
+798,Biology,"Problem Solving, Data Analysis, Public Speaking, Programming, Artistic, Leadership","Japanese, Chinese, Spanish, German",New York,Music Club,3.33
+799,History,"Problem Solving, Programming","German, French, Spanish, Chinese, English, Japanese",Chicago,Art Club,2.16
+800,History,"Data Analysis, Leadership, Public Speaking, Artistic, Programming, Problem Solving","Spanish, Japanese, English, French, Chinese, German",Houston,Art Club,2.25
+801,Physics,"Public Speaking, Artistic, Programming, Data Analysis, Leadership, Problem Solving","Chinese, French, German, English",Los Angeles,Music Club,3.62
+802,History,"Data Analysis, Problem Solving, Programming","Chinese, English, French, Spanish",Houston,Art Club,2.67
+803,Physics,"Programming, Problem Solving, Leadership","English, French",San Francisco,Debate Club,3.3
+804,Psychology,"Public Speaking, Artistic, Leadership, Data Analysis, Programming, Problem Solving","Chinese, Spanish, English",Chicago,Sports Team,2.55
+805,Mathematics,"Leadership, Artistic, Data Analysis, Programming","English, French, Chinese, German",Boston,Art Club,3.0
+806,Biology,"Problem Solving, Leadership, Data Analysis, Programming","Chinese, Japanese",Boston,Art Club,3.25
+807,Biology,"Public Speaking, Leadership, Artistic, Problem Solving, Data Analysis","Spanish, French, German, Chinese",Chicago,Sports Team,2.73
+808,Physics,"Data Analysis, Artistic, Problem Solving, Leadership, Public Speaking","French, Spanish, Chinese, English",Los Angeles,Music Club,2.77
+809,Mathematics,"Leadership, Public Speaking, Artistic","German, Spanish, English, Japanese, French",Houston,Sports Team,3.84
+810,Psychology,"Artistic, Public Speaking, Problem Solving, Programming","German, French",San Francisco,Sports Team,3.89
+811,Mathematics,"Leadership, Programming, Problem Solving, Artistic, Public Speaking, Data Analysis","Spanish, Japanese, Chinese, French, English",New York,Art Club,2.77
+812,Mathematics,"Problem Solving, Public Speaking, Programming, Artistic","Spanish, English, German",San Francisco,Art Club,2.17
+813,Computer Science,"Programming, Data Analysis, Problem Solving, Public Speaking","French, Chinese, Spanish, German",Chicago,Debate Club,3.01
+814,Biology,"Programming, Problem Solving",English,San Francisco,Coding Club,2.18
+815,Computer Science,"Artistic, Problem Solving, Public Speaking, Leadership","German, Japanese, Chinese, French, English",Boston,Volunteer Group,2.21
+816,Biology,"Problem Solving, Data Analysis, Leadership","Spanish, German",Chicago,Volunteer Group,2.39
+817,History,Leadership,Chinese,San Francisco,Coding Club,2.89
+818,Physics,Artistic,"Japanese, German",San Francisco,Debate Club,3.1
+819,Computer Science,Data Analysis,"English, Chinese",Chicago,Sports Team,2.73
+820,History,"Programming, Leadership, Problem Solving","Chinese, Japanese, German",Los Angeles,Sports Team,3.15
+821,Psychology,Programming,"Chinese, Japanese, Spanish, French",Chicago,Debate Club,3.96
+822,Computer Science,Data Analysis,"Chinese, German, Spanish",San Francisco,Debate Club,2.69
+823,Physics,Data Analysis,"English, German, French, Japanese, Spanish",Boston,Sports Team,3.83
+824,Computer Science,Data Analysis,"Japanese, English, Chinese, French, Spanish",Chicago,Debate Club,3.13
+825,Mathematics,Leadership,"German, French, English, Chinese, Japanese",Chicago,Debate Club,2.69
+826,Mathematics,"Data Analysis, Programming, Artistic, Public Speaking","Spanish, Chinese, French, Japanese, English, German",Chicago,Music Club,3.69
+827,Psychology,"Programming, Data Analysis, Public Speaking, Leadership","English, German",Houston,Music Club,2.78
+828,History,Artistic,"English, German, Spanish, Japanese",Chicago,Music Club,2.11
+829,Physics,"Data Analysis, Problem Solving","English, German, Japanese, Chinese, Spanish, French",New York,Coding Club,3.27
+830,Psychology,"Data Analysis, Public Speaking, Artistic","English, German, Japanese",Boston,Sports Team,2.31
+831,Mathematics,"Problem Solving, Leadership, Public Speaking, Artistic, Data Analysis, Programming","French, Japanese, Chinese, English",New York,Sports Team,2.47
+832,Computer Science,"Data Analysis, Artistic",Chinese,Houston,Sports Team,3.11
+833,Psychology,"Public Speaking, Leadership, Programming, Problem Solving","Spanish, Chinese",Los Angeles,Art Club,3.85
+834,Computer Science,"Artistic, Programming, Leadership, Public Speaking, Problem Solving, Data Analysis","Japanese, Spanish",Boston,Debate Club,3.66
+835,Physics,"Leadership, Data Analysis, Problem Solving, Artistic, Programming",German,New York,Art Club,3.99
+836,Psychology,"Leadership, Public Speaking, Data Analysis, Problem Solving",German,New York,Debate Club,3.37
+837,History,Public Speaking,"Chinese, German, Japanese, Spanish, English, French",Houston,Debate Club,3.68
+838,Mathematics,"Problem Solving, Programming, Artistic, Public Speaking, Data Analysis","Chinese, English, Spanish, French",New York,Art Club,2.62
+839,Physics,"Leadership, Public Speaking, Programming, Data Analysis, Problem Solving","German, Chinese, English, Spanish, French",Chicago,Debate Club,3.07
+840,Biology,"Leadership, Problem Solving, Programming, Artistic","English, German, Japanese, French, Spanish, Chinese",Boston,Music Club,2.6
+841,Computer Science,"Public Speaking, Artistic, Leadership, Programming",Japanese,Boston,Coding Club,2.23
+842,Psychology,Public Speaking,Chinese,Houston,Music Club,3.96
+843,Computer Science,"Problem Solving, Artistic, Data Analysis","French, German",Boston,Debate Club,2.09
+844,Mathematics,"Programming, Leadership, Data Analysis","Chinese, French, Japanese",Los Angeles,Coding Club,3.14
+845,Computer Science,"Public Speaking, Artistic",German,New York,Art Club,3.5
+846,Computer Science,"Leadership, Programming, Data Analysis","Spanish, Japanese, Chinese, French, German",Los Angeles,Volunteer Group,2.28
+847,Computer Science,"Problem Solving, Artistic, Leadership, Programming, Data Analysis","French, Chinese, German, English, Japanese, Spanish",Chicago,Volunteer Group,3.64
+848,Computer Science,"Public Speaking, Leadership","Spanish, German",Los Angeles,Coding Club,3.91
+849,Psychology,"Artistic, Public Speaking","German, English",Chicago,Music Club,3.89
+850,Biology,"Leadership, Public Speaking, Data Analysis","Spanish, German, French, English",Houston,Debate Club,2.72
+851,Psychology,"Artistic, Public Speaking, Programming, Data Analysis, Problem Solving, Leadership","French, Japanese",Houston,Art Club,3.72
+852,History,"Leadership, Programming, Public Speaking, Problem Solving, Artistic, Data Analysis","Chinese, English, German, Japanese, Spanish",Houston,Coding Club,2.28
+853,Biology,"Public Speaking, Leadership, Programming, Artistic, Data Analysis","English, Spanish, Japanese, French, German",Houston,Debate Club,3.34
+854,Mathematics,Artistic,"English, Spanish, German, French, Japanese, Chinese",Boston,Sports Team,2.01
+855,Biology,"Public Speaking, Data Analysis, Artistic","French, Spanish, Japanese, English",Los Angeles,Debate Club,3.3
+856,Physics,"Public Speaking, Data Analysis, Leadership, Problem Solving, Artistic","Chinese, English, French, Japanese",Boston,Debate Club,2.29
+857,Psychology,"Artistic, Problem Solving",French,Los Angeles,Coding Club,2.02
+858,History,"Public Speaking, Problem Solving, Leadership, Programming, Artistic","Japanese, Spanish, Chinese, German, French, English",New York,Volunteer Group,2.91
+859,Biology,Public Speaking,"English, French, Chinese, Spanish, German",San Francisco,Debate Club,2.12
+860,History,"Public Speaking, Data Analysis, Problem Solving, Artistic, Leadership, Programming","Chinese, French, Japanese, German, Spanish",Los Angeles,Music Club,2.75
+861,Mathematics,"Data Analysis, Programming","Chinese, English, German, French, Japanese, Spanish",Los Angeles,Music Club,3.96
+862,Psychology,"Public Speaking, Data Analysis",English,Chicago,Sports Team,2.45
+863,History,"Data Analysis, Programming, Public Speaking, Problem Solving, Artistic, Leadership",Chinese,Chicago,Volunteer Group,3.89
+864,Physics,"Public Speaking, Data Analysis, Artistic","German, English",San Francisco,Art Club,3.9
+865,Psychology,"Data Analysis, Leadership, Problem Solving, Artistic","Spanish, Chinese",Boston,Music Club,3.94
+866,Biology,"Public Speaking, Artistic","German, Chinese, French, English, Japanese",Houston,Music Club,2.22
+867,Physics,"Leadership, Problem Solving, Programming","English, Japanese",Los Angeles,Volunteer Group,2.15
+868,Physics,Leadership,"German, Spanish",San Francisco,Music Club,3.0
+869,History,"Problem Solving, Leadership, Data Analysis","Chinese, German, Japanese, Spanish, English",Boston,Volunteer Group,2.68
+870,Mathematics,"Data Analysis, Public Speaking, Problem Solving, Programming, Leadership","Spanish, Japanese, Chinese, French, German, English",San Francisco,Art Club,2.37
+871,Mathematics,"Leadership, Problem Solving, Artistic","German, Spanish, English, Chinese",Chicago,Coding Club,2.76
+872,Biology,Artistic,English,Los Angeles,Volunteer Group,3.32
+873,Computer Science,Programming,"Spanish, Chinese, Japanese",Houston,Sports Team,2.71
+874,Physics,"Problem Solving, Leadership, Data Analysis","French, Chinese, Japanese, German, Spanish, English",Chicago,Art Club,3.8
+875,Psychology,"Data Analysis, Public Speaking","Spanish, Japanese, English",San Francisco,Art Club,3.89
+876,Physics,"Public Speaking, Artistic, Programming","French, Japanese, Spanish",Chicago,Sports Team,2.58
+877,Biology,Problem Solving,"German, Japanese",San Francisco,Sports Team,3.65
+878,Mathematics,"Artistic, Data Analysis","French, Chinese",Chicago,Sports Team,2.49
+879,Physics,"Data Analysis, Public Speaking, Artistic, Leadership, Problem Solving, Programming","Spanish, German",Chicago,Music Club,3.41
+880,Mathematics,"Problem Solving, Data Analysis",Spanish,New York,Art Club,3.09
+881,Computer Science,Programming,German,San Francisco,Music Club,3.47
+882,Computer Science,"Artistic, Problem Solving, Programming, Public Speaking","German, Chinese, French",San Francisco,Art Club,3.1
+883,Computer Science,"Artistic, Problem Solving, Leadership, Public Speaking",Japanese,Boston,Volunteer Group,3.72
+884,History,"Problem Solving, Data Analysis, Programming, Public Speaking",English,Boston,Volunteer Group,3.01
+885,Computer Science,"Problem Solving, Public Speaking, Leadership","Japanese, German, English, Chinese",New York,Coding Club,2.02
+886,Psychology,"Problem Solving, Programming, Artistic, Leadership","German, French, Chinese",Houston,Music Club,2.89
+887,Mathematics,"Problem Solving, Public Speaking, Artistic, Programming","French, Japanese, German, Spanish",New York,Coding Club,2.14
+888,Mathematics,"Artistic, Data Analysis, Programming, Problem Solving, Leadership","Spanish, German, English, Chinese, Japanese",New York,Sports Team,3.49
+889,Computer Science,"Data Analysis, Programming, Artistic, Public Speaking, Leadership","Spanish, Japanese, English, Chinese, German",Chicago,Volunteer Group,2.16
+890,History,"Data Analysis, Leadership, Programming, Problem Solving","Chinese, Spanish, English, Japanese, German, French",Houston,Coding Club,2.57
+891,Biology,"Problem Solving, Data Analysis, Leadership, Programming, Artistic","French, German, Chinese, Japanese, Spanish, English",San Francisco,Coding Club,3.57
+892,Psychology,Public Speaking,French,Los Angeles,Debate Club,2.5
+893,Biology,"Artistic, Data Analysis, Problem Solving, Leadership, Programming","Spanish, Chinese",Boston,Sports Team,3.32
+894,Mathematics,"Problem Solving, Artistic","Chinese, English, Spanish, Japanese, French, German",Los Angeles,Music Club,3.73
+895,Mathematics,"Problem Solving, Leadership, Programming, Artistic, Data Analysis","French, Chinese, Japanese",San Francisco,Sports Team,2.77
+896,Mathematics,"Leadership, Problem Solving, Programming, Public Speaking, Artistic, Data Analysis","French, Chinese, Spanish",Boston,Sports Team,3.48
+897,Biology,"Public Speaking, Problem Solving, Programming, Data Analysis","French, English",New York,Sports Team,2.5
+898,Computer Science,"Problem Solving, Leadership, Data Analysis, Artistic","Japanese, Spanish, French, German, Chinese, English",San Francisco,Coding Club,2.42
+899,Physics,"Artistic, Programming, Data Analysis, Leadership, Problem Solving, Public Speaking","Chinese, Spanish",Boston,Coding Club,2.07
+900,History,"Leadership, Public Speaking","German, French, Chinese, Spanish, Japanese, English",Houston,Music Club,3.18
+901,Biology,"Public Speaking, Data Analysis","German, Japanese, Chinese, English, Spanish",Boston,Volunteer Group,3.68
+902,Computer Science,"Data Analysis, Public Speaking, Leadership, Programming, Problem Solving, Artistic","Spanish, French, English",New York,Debate Club,3.48
+903,Psychology,Public Speaking,"Japanese, Spanish, Chinese, French",New York,Art Club,2.23
+904,Mathematics,"Leadership, Programming, Data Analysis, Problem Solving, Public Speaking","English, German",Chicago,Coding Club,3.29
+905,Mathematics,"Leadership, Artistic, Problem Solving, Public Speaking, Data Analysis, Programming","French, English, Japanese, Chinese, Spanish, German",Los Angeles,Debate Club,3.5
+906,Physics,"Data Analysis, Artistic, Problem Solving, Public Speaking, Programming","German, Spanish, Chinese",Boston,Debate Club,2.92
+907,Biology,"Data Analysis, Leadership, Public Speaking, Programming, Problem Solving, Artistic","Japanese, German",San Francisco,Art Club,3.39
+908,Mathematics,"Artistic, Programming","English, French",Boston,Volunteer Group,3.32
+909,Mathematics,"Programming, Leadership, Data Analysis","Chinese, English, German, Japanese",Boston,Music Club,2.74
+910,Computer Science,"Public Speaking, Artistic, Programming","English, Chinese",San Francisco,Art Club,3.7
+911,Computer Science,"Programming, Artistic, Problem Solving, Public Speaking","French, English, Chinese, German, Japanese",Los Angeles,Music Club,3.69
+912,Psychology,"Public Speaking, Data Analysis, Problem Solving","Chinese, German, Spanish",New York,Coding Club,3.73
+913,Psychology,"Data Analysis, Leadership, Problem Solving",Japanese,Los Angeles,Coding Club,3.45
+914,Psychology,Leadership,"German, Japanese",New York,Music Club,3.96
+915,Biology,"Data Analysis, Leadership, Programming, Artistic","English, German, Japanese",San Francisco,Sports Team,2.97
+916,Physics,"Programming, Public Speaking","Spanish, English",New York,Volunteer Group,3.78
+917,Mathematics,"Artistic, Data Analysis, Public Speaking, Leadership","Chinese, Spanish",San Francisco,Volunteer Group,3.42
+918,Biology,"Problem Solving, Artistic, Leadership","Spanish, French, Japanese, Chinese, English",Chicago,Art Club,2.15
+919,Computer Science,"Data Analysis, Problem Solving, Artistic, Programming, Public Speaking","Spanish, Japanese, German, Chinese, English",Los Angeles,Coding Club,3.57
+920,Computer Science,"Artistic, Problem Solving, Data Analysis, Programming, Leadership","Japanese, Chinese",Houston,Coding Club,2.71
+921,History,"Public Speaking, Artistic","English, Japanese, Spanish, French",San Francisco,Sports Team,3.55
+922,Physics,"Artistic, Programming, Leadership","French, Spanish, English, German, Japanese, Chinese",San Francisco,Coding Club,3.57
+923,Computer Science,"Data Analysis, Public Speaking, Artistic","English, Japanese",San Francisco,Volunteer Group,2.79
+924,Biology,"Leadership, Artistic, Problem Solving, Programming, Data Analysis, Public Speaking","German, Spanish, French, English",Chicago,Sports Team,2.29
+925,Computer Science,Data Analysis,"Spanish, Japanese, German, French, English, Chinese",San Francisco,Volunteer Group,2.12
+926,Physics,"Artistic, Leadership, Data Analysis, Programming, Public Speaking","Japanese, French, English",Boston,Debate Club,3.57
+927,Computer Science,"Data Analysis, Leadership, Artistic","Japanese, Spanish",Chicago,Sports Team,2.05
+928,Biology,"Data Analysis, Problem Solving",Chinese,Boston,Debate Club,2.52
+929,History,"Leadership, Programming","Chinese, Spanish, German, Japanese, English",Chicago,Music Club,2.04
+930,Psychology,"Problem Solving, Programming","Japanese, German, French",Boston,Debate Club,2.08
+931,Computer Science,Problem Solving,"Spanish, Chinese",Chicago,Sports Team,2.77
+932,Physics,"Problem Solving, Public Speaking, Artistic, Data Analysis","English, Japanese, French, Spanish, German, Chinese",Houston,Sports Team,3.82
+933,Physics,Problem Solving,"English, German",Los Angeles,Coding Club,2.94
+934,Psychology,"Leadership, Problem Solving, Artistic, Public Speaking, Data Analysis","Spanish, English, French, Japanese, Chinese",New York,Debate Club,3.03
+935,Mathematics,Leadership,"English, Spanish, Japanese, French, German",Boston,Debate Club,2.34
+936,Physics,"Data Analysis, Programming, Leadership",German,Los Angeles,Sports Team,3.91
+937,Mathematics,"Artistic, Problem Solving, Programming","English, Spanish, German, Japanese, Chinese",Boston,Volunteer Group,3.96
+938,Biology,"Artistic, Programming, Public Speaking","Spanish, English, Chinese, French, Japanese",Los Angeles,Coding Club,3.04
+939,Biology,Problem Solving,"Chinese, English, German, French, Spanish, Japanese",Los Angeles,Music Club,3.32
+940,History,"Leadership, Artistic, Data Analysis","Japanese, French, English",New York,Volunteer Group,2.97
+941,Biology,Artistic,"Spanish, French, Chinese",Houston,Music Club,2.33
+942,Mathematics,"Leadership, Programming, Artistic, Data Analysis","English, French, German, Spanish, Japanese",Los Angeles,Sports Team,3.23
+943,History,"Public Speaking, Data Analysis, Programming, Problem Solving, Artistic","Japanese, English, Chinese, Spanish",Boston,Debate Club,2.21
+944,Physics,"Leadership, Artistic, Data Analysis","Japanese, French, English, Chinese, Spanish, German",Boston,Sports Team,2.73
+945,Computer Science,"Programming, Public Speaking","French, German, Japanese, English, Chinese, Spanish",Los Angeles,Debate Club,3.38
+946,Mathematics,"Leadership, Data Analysis, Problem Solving, Public Speaking, Artistic, Programming","Spanish, French, Japanese",Los Angeles,Sports Team,2.74
+947,Biology,"Problem Solving, Artistic","French, Chinese, Spanish",Los Angeles,Debate Club,2.79
+948,Mathematics,"Leadership, Programming","German, French, Japanese, English, Spanish, Chinese",Chicago,Sports Team,2.33
+949,Biology,"Programming, Public Speaking, Problem Solving, Leadership","French, English, Spanish",Boston,Sports Team,2.7
+950,History,"Data Analysis, Public Speaking, Leadership, Problem Solving","Spanish, French",Boston,Art Club,2.11
+951,Biology,"Artistic, Leadership, Problem Solving, Data Analysis, Programming, Public Speaking","Japanese, English, French",Houston,Art Club,2.22
+952,Psychology,"Data Analysis, Leadership, Public Speaking","German, Spanish",Chicago,Sports Team,3.71
+953,Physics,"Leadership, Problem Solving, Public Speaking, Programming, Artistic, Data Analysis","French, Japanese, Chinese, Spanish, German",Houston,Sports Team,3.2
+954,Computer Science,"Leadership, Data Analysis, Programming, Artistic",German,New York,Sports Team,3.22
+955,Psychology,"Data Analysis, Programming, Problem Solving, Artistic, Leadership, Public Speaking","Chinese, Spanish, German, French, English",Los Angeles,Sports Team,2.61
+956,Computer Science,"Artistic, Data Analysis","Spanish, German",Boston,Art Club,3.89
+957,Biology,"Public Speaking, Programming","Spanish, Japanese, Chinese, German, French, English",Houston,Volunteer Group,2.48
+958,Mathematics,"Artistic, Programming",French,New York,Sports Team,2.23
+959,Biology,"Programming, Artistic, Data Analysis, Problem Solving, Public Speaking","Spanish, Chinese, Japanese, English, German",Boston,Coding Club,2.43
+960,Biology,Leadership,"German, English, Japanese, Chinese, Spanish",Houston,Art Club,3.31
+961,Computer Science,"Artistic, Problem Solving","Japanese, German, English, Chinese",Houston,Music Club,3.81
+962,History,"Leadership, Programming, Public Speaking, Artistic, Data Analysis","German, Chinese, English, French, Spanish",Houston,Art Club,2.26
+963,Mathematics,"Data Analysis, Artistic","Chinese, Spanish, Japanese, French, English, German",Boston,Coding Club,2.86
+964,Mathematics,"Problem Solving, Programming, Public Speaking, Data Analysis, Leadership, Artistic",Japanese,Los Angeles,Music Club,3.2
+965,Biology,"Leadership, Data Analysis, Programming, Public Speaking, Artistic","Chinese, French, English, Spanish, Japanese, German",Los Angeles,Sports Team,2.53
+966,Biology,"Data Analysis, Public Speaking, Problem Solving, Programming, Artistic, Leadership","German, French, Chinese",New York,Debate Club,2.56
+967,Psychology,"Problem Solving, Public Speaking","English, Japanese",Chicago,Volunteer Group,3.62
+968,Mathematics,"Data Analysis, Public Speaking, Artistic, Leadership",Spanish,Houston,Volunteer Group,3.58
+969,Physics,"Data Analysis, Problem Solving, Artistic","Chinese, English, French, German, Spanish",Houston,Volunteer Group,3.08
+970,Biology,"Artistic, Data Analysis, Programming, Problem Solving, Leadership, Public Speaking","English, French",Houston,Art Club,2.41
+971,Psychology,"Data Analysis, Leadership, Artistic, Programming, Public Speaking","German, French, Chinese, Spanish",San Francisco,Sports Team,2.65
+972,History,"Artistic, Leadership, Problem Solving, Public Speaking, Data Analysis, Programming",Japanese,Houston,Music Club,2.34
+973,Psychology,"Leadership, Data Analysis, Artistic","Spanish, English, French",Los Angeles,Coding Club,2.12
+974,Physics,"Public Speaking, Problem Solving, Data Analysis","German, Chinese, French, Japanese",Houston,Music Club,3.52
+975,Biology,"Public Speaking, Programming","German, Japanese, Spanish, French, Chinese, English",New York,Sports Team,2.55
+976,Computer Science,"Public Speaking, Leadership, Programming, Artistic","Spanish, German, English",Los Angeles,Sports Team,2.25
+977,History,"Public Speaking, Leadership, Problem Solving, Artistic, Programming","Chinese, German",Houston,Volunteer Group,2.47
+978,Physics,"Artistic, Programming","French, German, Japanese, English, Spanish",Los Angeles,Coding Club,2.71
+979,Mathematics,"Problem Solving, Leadership","English, Spanish, Japanese",Boston,Volunteer Group,3.53
+980,History,Leadership,"Chinese, French, German",San Francisco,Music Club,2.98
+981,Psychology,"Problem Solving, Public Speaking, Programming, Leadership, Data Analysis","English, Japanese, French, German, Chinese, Spanish",Houston,Volunteer Group,2.79
+982,Biology,"Problem Solving, Public Speaking, Programming, Data Analysis, Artistic","French, Japanese, English, Spanish, German, Chinese",Houston,Coding Club,3.2
+983,Mathematics,"Leadership, Public Speaking, Programming",Chinese,New York,Sports Team,3.55
+984,Psychology,"Leadership, Programming, Data Analysis, Artistic, Problem Solving","Spanish, Chinese, English, German, French",Houston,Sports Team,2.6
+985,Psychology,"Data Analysis, Leadership, Public Speaking, Problem Solving, Programming, Artistic","English, Chinese, German",Chicago,Debate Club,2.66
+986,Mathematics,"Leadership, Programming, Artistic, Data Analysis, Problem Solving","German, English, Chinese, Japanese, French, Spanish",Los Angeles,Coding Club,2.56
+987,Mathematics,"Public Speaking, Problem Solving",Chinese,New York,Volunteer Group,3.61
+988,Computer Science,Programming,"German, Chinese, English",San Francisco,Coding Club,3.01
+989,Mathematics,"Leadership, Data Analysis, Artistic, Problem Solving","Spanish, German",Chicago,Art Club,2.97
+990,Psychology,"Problem Solving, Data Analysis, Public Speaking, Programming","Spanish, Chinese, English, Japanese, French",Boston,Sports Team,2.6
+991,Mathematics,"Programming, Problem Solving","Japanese, English",Los Angeles,Sports Team,3.37
+992,Mathematics,"Problem Solving, Leadership","Chinese, English",Houston,Sports Team,2.06
+993,Computer Science,"Programming, Problem Solving, Data Analysis, Leadership, Public Speaking, Artistic","French, English, Spanish, Chinese, German",Boston,Music Club,2.97
+994,Mathematics,"Data Analysis, Artistic",German,New York,Sports Team,3.23
+995,History,"Data Analysis, Leadership, Programming, Artistic, Problem Solving, Public Speaking","Spanish, Chinese, English",New York,Sports Team,2.26
+996,Mathematics,"Leadership, Artistic, Programming, Public Speaking, Data Analysis, Problem Solving","French, Chinese, English",Chicago,Sports Team,2.21
+997,Biology,"Data Analysis, Leadership","Spanish, German, Chinese",New York,Art Club,3.62
+998,Biology,"Public Speaking, Programming, Artistic, Leadership, Problem Solving, Data Analysis","Spanish, German, Japanese, Chinese, French",New York,Volunteer Group,3.09
+999,Psychology,"Public Speaking, Data Analysis, Artistic, Leadership, Problem Solving",German,Houston,Sports Team,3.17
+1000,Physics,Public Speaking,"Japanese, Spanish, Chinese, French, German",New York,Coding Club,2.16
